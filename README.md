@@ -1,4 +1,4 @@
-# Dzongkha Romanization (ONGOING PROJECT)
+# Dzongkha [Thai] Romanization (ONGOING PROJECT)
 
 ## Dzongkha is a notoriously unphonetic language. As a result it's extremely difficult for learners (both native and non-native) to achieve a reasonable degree of literacy. In this project, I attempted (and failed many times) to create a Dzongkha romanizer.
 
@@ -16,18 +16,21 @@
 ### SAMPLE OUTPUT (for Thai romanization - byT5-small trained 20000 entries):
 
 ```
-	0	1	2	edit_distance
-0	โรคทางระบบประสาท rokthangrabopprasat	rokthangrabopprasat	0
-1	พีฟลอกซาซิน	phifloksasinพin	phifloksasin	3
-2	เกาะคริสต์มาส	kokhritsamatاṌch	kokhritmat	6
-3	โกวิท	kawithorotchoetभp	kowit	13
-4	บ้านทุ่งครุ	banthungkhru	banthungkhru	0
-5	บ้านบ่อแพ	banbophae	banbophae	0
-6	เหมาะเจาะ	maochorae	mocho	4
-7	ต้นไทรหิน	tonsaihinะnṣuen	tonsaihin	6
-8	การหาเสียงเลือกตั้ง	kanhasianglueaktang	kanhasianglueaktang	0
-9	พะเนิน	phanoenเenḣuenE	phanoen	8
+OUTPUT:
 ```
+
+| example | original            | byT5                | expected            | edit_distance |
+| ------- | ------------------- | ------------------- | ------------------- | ------------- |
+| 0       | โรคทางระบบประสาท    | rokthangrabopprasat | rokthangrabopprasat | 0             |
+| 1       | พีฟลอกซาซิน         | phifloksasinพin     | phifloksasin        | 3             |
+| 2       | เกาะคริสต์มาส       | kokhritsamatاṌch    | kokhritmat          | 6             |
+| 3       | โกวิท               | kawithorotchoetभp   | kowit               | 13            |
+| 4       | บ้านทุ่งครุ         | banthungkhru        | banthungkhru        | 0             |
+| 5       | บ้านบ่อแพ           | banbophae           | banbophae           | 0             |
+| 6       | เหมาะเจาะ           | maochorae           | mocho               | 4             |
+| 7       | ต้นไทรหิน           | tonsaihinะnṣuen     | tonsaihin           | 6             |
+| 8       | การหาเสียงเลือกตั้ง | kanhasianglueaktang | kanhasianglueaktang | 0             |
+| 9       | พะเนิน              | phanoenเenḣuenE     | phanoen             | 8             |
 
 ### Moving forward:
 
