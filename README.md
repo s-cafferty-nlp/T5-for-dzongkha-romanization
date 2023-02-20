@@ -15,10 +15,6 @@
 
 ### SAMPLE OUTPUT (for Thai romanization - byT5-small trained 20000 entries):
 
-```
-OUTPUT:
-```
-
 | example | original            | byT5                | expected            | edit_distance |
 | ------- | ------------------- | ------------------- | ------------------- | ------------- |
 | 0       | โรคทางระบบประสาท    | rokthangrabopprasat | rokthangrabopprasat | 0             |
