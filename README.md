@@ -16,7 +16,7 @@
 ### SAMPLE OUTPUT (for Thai romanization - byT5-small trained 20000 entries):
 
 ```
-	0	1	2	edit_distance
+	0 | 1 | 2 | edit_distance
 0	โรคทางระบบประสาท rokthangrabopprasat	rokthangrabopprasat	0
 1	พีฟลอกซาซิน	phifloksasinพin	phifloksasin	3
 2	เกาะคริสต์มาส	kokhritsamatاṌch	kokhritmat	6
