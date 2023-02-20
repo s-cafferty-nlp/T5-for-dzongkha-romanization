@@ -1,0 +1,9600 @@
+DZONGKHA: ཀཝ་
+
+ROMANIZED: kau
+
+
+
+
+
+DZONGKHA: ཀྲེམ་ཟེ་
+
+ROMANIZED: tremze
+
+
+
+
+
+DZONGKHA: ཀྲོག་
+
+ROMANIZED: tro
+
+
+
+
+
+DZONGKHA: ཀླདཔ་
+
+ROMANIZED: ’lep
+
+
+
+
+
+DZONGKHA: ཀུན་གསལ་
+
+ROMANIZED: Künsel
+
+
+
+
+
+DZONGKHA: ཀུཝ་
+
+ROMANIZED: gourd
+
+
+
+
+
+DZONGKHA: ཀུཝ་
+
+ROMANIZED: kû
+
+
+
+
+
+DZONGKHA: ཀུཝ་
+
+ROMANIZED: kû
+
+
+
+
+
+DZONGKHA: ཀོཝ་
+
+ROMANIZED: kou
+
+
+
+
+
+DZONGKHA: ཁ་
+
+ROMANIZED: kha
+
+
+
+
+
+DZONGKHA: ཁབ་
+
+ROMANIZED: khap
+
+
+
+
+
+DZONGKHA: ཁབ་ཏོག་
+
+ROMANIZED: khapto
+
+
+
+
+
+DZONGKHA: ཁམ་
+
+ROMANIZED: kham
+
+
+
+
+
+DZONGKHA: ཁཝ་
+
+ROMANIZED: khau
+
+
+
+
+
+DZONGKHA: ཁྱལ་
+
+ROMANIZED: khä
+
+
+
+
+
+DZONGKHA: ཁྱིམ་
+
+ROMANIZED: chim
+
+
+
+
+
+DZONGKHA: ཁྱུ་
+
+ROMANIZED: chu
+
+
+
+
+
+DZONGKHA: ཁྱོད་
+
+ROMANIZED: chö
+
+
+
+
+
+DZONGKHA: ཁྲག་
+
+ROMANIZED: thrâ
+
+
+
+
+
+DZONGKHA: ཁྲུས་ཁང་
+
+ROMANIZED: thrükha
+
+
+
+
+
+DZONGKHA: ཁྲོམ་ཁ་
+
+ROMANIZED: thromkha
+
+
+
+
+
+DZONGKHA: ཁུ་བ་
+
+ROMANIZED: khwo
+
+
+
+
+
+DZONGKHA: ཁོ་
+
+ROMANIZED: kho
+
+
+
+
+
+DZONGKHA: ག་ཅི་
+
+ROMANIZED: g’aci
+
+
+
+
+
+DZONGKHA: གངས་རི་
+
+ROMANIZED: g’angri
+
+
+
+
+
+DZONGKHA: གཅད་
+
+ROMANIZED: cê
+
+
+
+
+
+DZONGKHA: གཅིག་
+
+ROMANIZED: ci,
+
+
+
+
+
+DZONGKHA: གཉིད་ལམ་
+
+ROMANIZED: nyela
+
+
+
+
+
+DZONGKHA: གཉིས་
+
+ROMANIZED: ’nyî
+
+
+
+
+
+DZONGKHA: གཉིས་
+
+ROMANIZED: ’nyî
+
+
+
+
+
+DZONGKHA: གཉེན་
+
+ROMANIZED: ’nyen
+
+
+
+
+
+DZONGKHA: གཏང་
+
+ROMANIZED: tang
+
+
+
+
+
+DZONGKHA: གདན་ཁེབ་
+
+ROMANIZED: den-khep
+
+
+
+
+
+DZONGKHA: གདོང་
+
+ROMANIZED: dong
+
+
+
+
+
+DZONGKHA: གནགཔོ་
+
+ROMANIZED: ’nap
+
+
+
+
+
+DZONGKHA: གནང་
+
+ROMANIZED: ’nang
+
+
+
+
+
+DZONGKHA: གནམ་
+
+ROMANIZED: ’nam
+
+
+
+
+
+DZONGKHA: གནམ་དགུན་
+
+ROMANIZED: ’namgün
+
+
+
+
+
+DZONGKHA: གནམ་བྱཱ་
+
+ROMANIZED: ’nambjâ
+
+
+
+
+
+DZONGKHA: གཙང་ཏོག་ཏོ་
+
+ROMANIZED: tsangtoto
+
+
+
+
+
+DZONGKHA: གཞུ་
+
+ROMANIZED: zhu
+
+
+
+
+
+DZONGKHA: གཞོནམ་
+
+ROMANIZED: zhöm
+
+
+
+
+
+DZONGKHA: གཟི་
+
+ROMANIZED: zi
+
+
+
+
+
+DZONGKHA: གཟིག་
+
+ROMANIZED: zî
+
+
+
+
+
+DZONGKHA: གཟུགས་
+
+ROMANIZED: zû
+
+
+
+
+
+DZONGKHA: གཟུང་ནི་
+
+ROMANIZED: zungni
+
+
+
+
+
+DZONGKHA: གཟེདམ་
+
+ROMANIZED: zêm
+
+
+
+
+
+DZONGKHA: གཟེར་
+
+ROMANIZED: dzê
+
+
+
+
+
+DZONGKHA: གཟེར་
+
+ROMANIZED: dzê
+
+
+
+
+
+DZONGKHA: གཡག་
+
+ROMANIZED: ’yâ
+
+
+
+
+
+DZONGKHA: གཡསཔ་
+
+ROMANIZED: ’yäp
+
+
+
+
+
+DZONGKHA: གཡུས་
+
+ROMANIZED: ’ü
+
+
+
+
+
+DZONGKHA: གཡེབ་
+
+ROMANIZED: ’yep
+
+
+
+
+
+DZONGKHA: གཡོན་
+
+ROMANIZED: ’öng
+
+
+
+
+
+DZONGKHA: གྱངམ་མས་
+
+ROMANIZED: j’âmme
+
+
+
+
+
+DZONGKHA: གྱངས་ཁ་
+
+ROMANIZED: j’angkha
+
+
+
+
+
+DZONGKHA: གྱལ་
+
+ROMANIZED: g’ä
+
+
+
+
+
+DZONGKHA: གྱལ་
+
+ROMANIZED: g’ä
+
+
+
+
+
+DZONGKHA: གྲང་ནད་
+
+ROMANIZED: dr’angne
+
+
+
+
+
+DZONGKHA: གྲྭ་ཚང་
+
+ROMANIZED: dr’atsha
+
+
+
+
+
+DZONGKHA: གྲུ་
+
+ROMANIZED: dr’u
+
+
+
+
+
+DZONGKHA: གླང་
+
+ROMANIZED: ’lang
+
+
+
+
+
+DZONGKHA: གླངམོ་ཆེ་
+
+ROMANIZED: ’lâmche
+
+
+
+
+
+DZONGKHA: གླངམོ་ཆེ་
+
+ROMANIZED: ’lâmche
+
+
+
+
+
+DZONGKHA: གླུ་
+
+ROMANIZED: ’lu
+
+
+
+
+
+DZONGKHA: གླུ་
+
+ROMANIZED: ’lu
+
+
+
+
+
+DZONGKHA: གླུད་
+
+ROMANIZED: ’lü
+
+
+
+
+
+DZONGKHA: གླེན་ལྐུགས་
+
+ROMANIZED: ’lenggo
+
+
+
+
+
+DZONGKHA: གློ་
+
+ROMANIZED: ’lo
+
+
+
+
+
+DZONGKHA: གློ་
+
+ROMANIZED: ’lo
+
+
+
+
+
+DZONGKHA: གཤོང་
+
+ROMANIZED: shong
+
+
+
+
+
+DZONGKHA: གསརཔ་
+
+ROMANIZED: sâp
+
+
+
+
+
+DZONGKHA: གསེབ་
+
+ROMANIZED: sep
+
+
+
+
+
+DZONGKHA: གསེབ་
+
+ROMANIZED: sep
+
+
+
+
+
+DZONGKHA: གསེབ་
+
+ROMANIZED: stallion
+
+
+
+
+
+DZONGKHA: གསེར་
+
+ROMANIZED: sê
+
+
+
+
+
+DZONGKHA: གསེར་
+
+ROMANIZED: sê
+
+
+
+
+
+DZONGKHA: གསེར་
+
+ROMANIZED: sê
+
+
+
+
+
+DZONGKHA: གསོབ་
+
+ROMANIZED: sop
+
+
+
+
+
+DZONGKHA: གཱ་
+
+ROMANIZED: g’â
+
+
+
+
+
+DZONGKHA: གུར་
+
+ROMANIZED: g’û
+
+
+
+
+
+DZONGKHA: གུས་ཞབས་
+
+ROMANIZED: g’üzh’ap
+
+
+
+
+
+DZONGKHA: གུས་ཞབས་
+
+ROMANIZED: g’üzh’ap
+
+
+
+
+
+DZONGKHA: གོན་
+
+ROMANIZED: g’ön
+
+
+
+
+
+DZONGKHA: གོན་
+
+ROMANIZED: g’ön
+
+
+
+
+
+DZONGKHA: ང་
+
+ROMANIZED: nga
+
+
+
+
+
+DZONGKHA: ང་
+
+ROMANIZED: nga
+
+
+
+
+
+DZONGKHA: ང་
+
+ROMANIZED: nga
+
+
+
+
+
+DZONGKHA: ངག་
+
+ROMANIZED: ngâ
+
+
+
+
+
+DZONGKHA: ངག་
+
+ROMANIZED: ngâ
+
+
+
+
+
+DZONGKHA: ངནམ་
+
+ROMANIZED: ngem
+
+
+
+
+
+DZONGKHA: ངལ་འཚོ་
+
+ROMANIZED: ngätsho
+
+
+
+
+
+DZONGKHA: ངོ་ཤེས་
+
+ROMANIZED: ngoshê
+
+
+
+
+
+DZONGKHA: ཆང་
+
+ROMANIZED: chang
+
+
+
+
+
+DZONGKHA: ཆང་གི་ཕོའོ་
+
+ROMANIZED: changgi
+
+
+
+
+
+DZONGKHA: ཆདཔ་
+
+ROMANIZED: chep
+
+
+
+
+
+DZONGKHA: ཆརཔ་
+
+ROMANIZED: châp
+
+
+
+
+
+DZONGKHA: ཆརཔ་
+
+ROMANIZED: châp
+
+
+
+
+
+DZONGKHA: ཆུ་
+
+ROMANIZED: chu
+
+
+
+
+
+DZONGKHA: ཆུ་
+
+ROMANIZED: chu
+
+
+
+
+
+DZONGKHA: ཇ་
+
+ROMANIZED: j’a
+
+
+
+
+
+DZONGKHA: ཇ་ཆང་
+
+ROMANIZED: j’achang
+
+
+
+
+
+DZONGKHA: ཇོ་བདག་
+
+ROMANIZED: j’ôda
+
+
+
+
+
+DZONGKHA: ཉ་རོགསཔ་
+
+ROMANIZED: nyarop
+
+
+
+
+
+DZONGKHA: ཉམས་མྱོང་
+
+ROMANIZED: nyamnyong
+
+
+
+
+
+DZONGKHA: ཉི་མའི་ལྟོ་
+
+ROMANIZED: nyimaito
+
+
+
+
+
+DZONGKHA: ཏིང་
+
+ROMANIZED: ting
+
+
+
+
+
+DZONGKHA: ཐབ་ཤིང་
+
+ROMANIZED: thapshi
+
+
+
+
+
+DZONGKHA: ཐིའུ་
+
+ROMANIZED: thiu
+
+
+
+
+
+DZONGKHA: དཀྱིས་
+
+ROMANIZED: ki
+
+
+
+
+
+DZONGKHA: དཀྱུས་རིང་
+
+ROMANIZED: cüring
+
+
+
+
+
+DZONGKHA: དཀརཔོ་
+
+ROMANIZED: kâp
+
+
+
+
+
+DZONGKHA: དཀྲོགས་
+
+ROMANIZED: trô
+
+
+
+
+
+DZONGKHA: དགའ་
+
+ROMANIZED: ga
+
+
+
+
+
+DZONGKHA: དགའ་ཏོག་ཏོ་
+
+ROMANIZED: gatoto
+
+
+
+
+
+DZONGKHA: དགུ་
+
+ROMANIZED: gu
+
+
+
+
+
+DZONGKHA: དངུལ་
+
+ROMANIZED: ’ngü
+
+
+
+
+
+DZONGKHA: དངུལ་ཀྲམ་
+
+ROMANIZED: ’ngütram
+
+
+
+
+
+DZONGKHA: དངོས་
+
+ROMANIZED: ’nö
+
+
+
+
+
+DZONGKHA: དཔའ་བོ་
+
+ROMANIZED: pao
+
+
+
+
+
+DZONGKHA: དཔྱལཝ་
+
+ROMANIZED: pcäu
+
+
+
+
+
+DZONGKHA: དཔྱི་སྨད་
+
+ROMANIZED: pcimi
+
+
+
+
+
+DZONGKHA: དཔོན་
+
+ROMANIZED: pön
+
+
+
+
+
+DZONGKHA: དབང་
+
+ROMANIZED: ’wang
+
+
+
+
+
+DZONGKHA: དབོག་ནི་
+
+ROMANIZED: ’ôni
+
+
+
+
+
+DZONGKHA: དམག་མི་
+
+ROMANIZED: ’mâmi
+
+
+
+
+
+DZONGKHA: དམྱལ་བ་
+
+ROMANIZED: ’nyäwa
+
+
+
+
+
+DZONGKHA: དམརཔོ་
+
+ROMANIZED: red
+
+
+
+
+
+DZONGKHA: དམརཔོ་
+
+ROMANIZED: ’mâp
+
+
+
+
+
+DZONGKHA: དམརཔོ་
+
+ROMANIZED: ’mâp
+
+
+
+
+
+DZONGKHA: དར་བ་
+
+ROMANIZED: d’âu
+
+
+
+
+
+DZONGKHA: དར་འཕྱར་
+
+ROMANIZED: d’â
+
+
+
+
+
+DZONGKHA: དར་ཤིང་
+
+ROMANIZED: d’âshi
+
+
+
+
+
+DZONGKHA: དྲག་ཤོས་
+
+ROMANIZED: Dr’âsho
+
+
+
+
+
+DZONGKHA: དྲུག་
+
+ROMANIZED: dr’û
+
+
+
+
+
+DZONGKHA: དྲེལ་
+
+ROMANIZED: dr’eng
+
+
+
+
+
+DZONGKHA: དྲེལ་
+
+ROMANIZED: dr’eng
+
+
+
+
+
+DZONGKHA: དྲོ་པ་
+
+ROMANIZED: dr’ôba
+
+
+
+
+
+DZONGKHA: དྲོད་
+
+ROMANIZED: dr’ö
+
+
+
+
+
+DZONGKHA: དུག་
+
+ROMANIZED: d’û
+
+
+
+
+
+DZONGKHA: དེ་ཅིག་
+
+ROMANIZED: deci
+
+
+
+
+
+DZONGKHA: དེ་སྦེ་
+
+ROMANIZED: d’ebe
+
+
+
+
+
+DZONGKHA: དོང་
+
+ROMANIZED: d’ong
+
+
+
+
+
+DZONGKHA: དོན་
+
+ROMANIZED: d’ön
+
+
+
+
+
+DZONGKHA: དོམ་
+
+ROMANIZED: d’ôm
+
+
+
+
+
+DZONGKHA: དོརམ་
+
+ROMANIZED: d’ôm
+
+
+
+
+
+DZONGKHA: ན་ཧིང་
+
+ROMANIZED: nahing
+
+
+
+
+
+DZONGKHA: ནངས་པ་
+
+ROMANIZED: nâba
+
+
+
+
+
+DZONGKHA: ནདཔ་
+
+ROMANIZED: nep
+
+
+
+
+
+DZONGKHA: ནམ་
+
+ROMANIZED: nam
+
+
+
+
+
+DZONGKHA: ནས་
+
+ROMANIZED: nâ
+
+
+
+
+
+DZONGKHA: ནས་
+
+ROMANIZED: nâ
+
+
+
+
+
+DZONGKHA: ནཱ་
+
+ROMANIZED: nâ
+
+
+
+
+
+DZONGKHA: ནཱ་
+
+ROMANIZED: nâ
+
+
+
+
+
+DZONGKHA: ནོར་རྫིཔ་
+
+ROMANIZED: nôzip
+
+
+
+
+
+DZONGKHA: པགས་ཀོ་
+
+ROMANIZED: pako,
+
+
+
+
+
+DZONGKHA: པྱི་ཝང་
+
+ROMANIZED: pciwang
+
+
+
+
+
+DZONGKHA: པར་
+
+ROMANIZED: pâ
+
+
+
+
+
+DZONGKHA: པྲ་མོ་
+
+ROMANIZED: tramo
+
+
+
+
+
+DZONGKHA: ཕྱག་
+
+ROMANIZED: châ
+
+
+
+
+
+DZONGKHA: ཕྱག་འཚལ་ནི་
+
+ROMANIZED: châtshäni
+
+
+
+
+
+DZONGKHA: ཕྱགམ་
+
+ROMANIZED: pchâm
+
+
+
+
+
+DZONGKHA: ཕྱུགཔོ་
+
+ROMANIZED: pchup
+
+
+
+
+
+DZONGKHA: ཕྱེ་
+
+ROMANIZED: pchi
+
+
+
+
+
+DZONGKHA: ཕྱེད་
+
+ROMANIZED: pchê
+
+
+
+
+
+DZONGKHA: ཕྱེད་ཀྲམ་
+
+ROMANIZED: pchetra
+
+
+
+
+
+DZONGKHA: ཕྱེན་
+
+ROMANIZED: pchen
+
+
+
+
+
+DZONGKHA: ཕོ་བྲང་
+
+ROMANIZED: phodra
+
+
+
+
+
+DZONGKHA: ཕོབ་
+
+ROMANIZED: phop
+
+
+
+
+
+DZONGKHA: ཕོབ་
+
+ROMANIZED: phop
+
+
+
+
+
+DZONGKHA: ཕོབ་
+
+ROMANIZED: put
+
+
+
+
+
+DZONGKHA: ཕོརཔ་
+
+ROMANIZED: cup
+
+
+
+
+
+DZONGKHA: ཕོརཔ་
+
+ROMANIZED: phôp
+
+
+
+
+
+DZONGKHA: ཕོརཔ་
+
+ROMANIZED: phôp
+
+
+
+
+
+DZONGKHA: བཀའ་དྲིན་ཆེ་
+
+ROMANIZED: kadriche
+
+
+
+
+
+DZONGKHA: བཀྱིག་
+
+ROMANIZED: ki
+
+
+
+
+
+DZONGKHA: བཀྲ་ཤིས་
+
+ROMANIZED: trashi
+
+
+
+
+
+DZONGKHA: བཀྲོང་
+
+ROMANIZED: trong
+
+
+
+
+
+DZONGKHA: བཀལན་
+
+ROMANIZED: kän
+
+
+
+
+
+DZONGKHA: བཀུགཔ་
+
+ROMANIZED: kup
+
+
+
+
+
+DZONGKHA: བགྲོསཔ་
+
+ROMANIZED: dröp
+
+
+
+
+
+DZONGKHA: བགོ་
+
+ROMANIZED: g’ô
+
+
+
+
+
+DZONGKHA: བགོ་
+
+ROMANIZED: g’ô
+
+
+
+
+
+DZONGKHA: བཅར་
+
+ROMANIZED: câ
+
+
+
+
+
+DZONGKHA: བཅུ་ཐམ་
+
+ROMANIZED: cuthâm
+
+
+
+
+
+DZONGKHA: བཏུབ་
+
+ROMANIZED: tup
+
+
+
+
+
+DZONGKHA: བཙའ་
+
+ROMANIZED: tsâ
+
+
+
+
+
+DZONGKHA: བཙོགཔ་
+
+ROMANIZED: tsop
+
+
+
+
+
+DZONGKHA: བཙོན་ཁང་
+
+ROMANIZED: tsönkha
+
+
+
+
+
+DZONGKHA: བཞག་
+
+ROMANIZED: zhâ
+
+
+
+
+
+DZONGKHA: བཞི་
+
+ROMANIZED: zhi
+
+
+
+
+
+DZONGKHA: བཞི་ཕོད་
+
+ROMANIZED: zhiphö
+
+
+
+
+
+DZONGKHA: བཟངམ་
+
+ROMANIZED: zâm
+
+
+
+
+
+DZONGKHA: བཟློག་ཐབས་
+
+ROMANIZED: dokthap
+
+
+
+
+
+DZONGKHA: བཟུམ་སྦེ་
+
+ROMANIZED: zumbe
+
+
+
+
+
+DZONGKHA: བཟོཝ་
+
+ROMANIZED: zou
+
+
+
+
+
+DZONGKHA: བྱ་
+
+ROMANIZED: bj’a
+
+
+
+
+
+DZONGKHA: བྱ་
+
+ROMANIZED: bj’a
+
+
+
+
+
+DZONGKHA: བྱག་
+
+ROMANIZED: bj’â
+
+
+
+
+
+DZONGKHA: བྱག་
+
+ROMANIZED: bj’â
+
+
+
+
+
+DZONGKHA: བྱམས་
+
+ROMANIZED: j’am
+
+
+
+
+
+DZONGKHA: བྱམོ་
+
+ROMANIZED: bj’am
+
+
+
+
+
+DZONGKHA: བྱི་ཙི་
+
+ROMANIZED: bj’itsi
+
+
+
+
+
+DZONGKHA: བྱི་ལི་
+
+ROMANIZED: bj’ili
+
+
+
+
+
+DZONGKHA: བྱི་ལི་
+
+ROMANIZED: bj’ili
+
+
+
+
+
+DZONGKHA: བྱིན་ནི་
+
+ROMANIZED: bj’in-ni
+
+
+
+
+
+DZONGKHA: བྱེམ་
+
+ROMANIZED: bj’im
+
+
+
+
+
+DZONGKHA: བྱོན་
+
+ROMANIZED: j’ön
+
+
+
+
+
+DZONGKHA: བྱོའོ་
+
+ROMANIZED: bj’ô
+
+
+
+
+
+DZONGKHA: བརྐྱང་
+
+ROMANIZED: cang
+
+
+
+
+
+DZONGKHA: བརྒྱད་
+
+ROMANIZED: gä
+
+
+
+
+
+DZONGKHA: བརྒྱད་
+
+ROMANIZED: gä
+
+
+
+
+
+DZONGKHA: བརྒྱུགས་
+
+ROMANIZED: ju
+
+
+
+
+
+DZONGKHA: བརྒལ་
+
+ROMANIZED: gä
+
+
+
+
+
+DZONGKHA: བརྔ་
+
+ROMANIZED: ’nga
+
+
+
+
+
+DZONGKHA: བརྔམ་སི་སི་
+
+ROMANIZED: ’ngamsisi
+
+
+
+
+
+DZONGKHA: བརྔོ་
+
+ROMANIZED: ’ngo
+
+
+
+
+
+DZONGKHA: བརྗེད་
+
+ROMANIZED: jê
+
+
+
+
+
+DZONGKHA: བརྙ་
+
+ROMANIZED: ’nya
+
+
+
+
+
+DZONGKHA: བརྟག་དཔྱད་
+
+ROMANIZED: takce
+
+
+
+
+
+DZONGKHA: བརྟག་དཔྱད་
+
+ROMANIZED: takce
+
+
+
+
+
+DZONGKHA: བརྡབ་
+
+ROMANIZED: dap
+
+
+
+
+
+DZONGKHA: བརྩམ་
+
+ROMANIZED: tsam
+
+
+
+
+
+DZONGKHA: བརྩིགསཔ་
+
+ROMANIZED: tsip
+
+
+
+
+
+DZONGKHA: བརླད་དོ་
+
+ROMANIZED: ’lädu
+
+
+
+
+
+DZONGKHA: བལ་
+
+ROMANIZED: b’ä
+
+
+
+
+
+DZONGKHA: བལ་
+
+ROMANIZED: b’ä
+
+
+
+
+
+DZONGKHA: བལྟ་ཤིག་
+
+ROMANIZED: Tash!
+
+
+
+
+
+DZONGKHA: བལྟབ་
+
+ROMANIZED: tap
+
+
+
+
+
+DZONGKHA: བལྡགས་
+
+ROMANIZED: dâ
+
+
+
+
+
+DZONGKHA: བླམ་
+
+ROMANIZED: ’lam
+
+
+
+
+
+DZONGKHA: བླམ་
+
+ROMANIZED: ’lam
+
+
+
+
+
+DZONGKHA: བློ་
+
+ROMANIZED: ’lo
+
+
+
+
+
+DZONGKHA: བློ་གསལ་
+
+ROMANIZED: ’Losel
+
+
+
+
+
+DZONGKHA: བཤད་སླབ་ནི་
+
+ROMANIZED: she
+
+
+
+
+
+DZONGKHA: བཤད་སླབ་ནི་
+
+ROMANIZED: she’lapni
+
+
+
+
+
+DZONGKHA: བཤལ་
+
+ROMANIZED: shä
+
+
+
+
+
+DZONGKHA: བཤལ་
+
+ROMANIZED: shä
+
+
+
+
+
+DZONGKHA: བཤལ་ནི་
+
+ROMANIZED: shäni
+
+
+
+
+
+DZONGKHA: བསྐྱབ་
+
+ROMANIZED: cap
+
+
+
+
+
+DZONGKHA: བསྐྱིས་
+
+ROMANIZED: ki
+
+
+
+
+
+DZONGKHA: བསྒྱུར་
+
+ROMANIZED: jû
+
+
+
+
+
+DZONGKHA: བསྒྲིམས་
+
+ROMANIZED: drim
+
+
+
+
+
+DZONGKHA: བསྒུག་
+
+ROMANIZED: gû
+
+
+
+
+
+DZONGKHA: བསྔོཝ་
+
+ROMANIZED: ’ngou
+
+
+
+
+
+DZONGKHA: བསྟོད་པ་
+
+ROMANIZED: töba
+
+
+
+
+
+DZONGKHA: བསད་
+
+ROMANIZED: sê
+
+
+
+
+
+DZONGKHA: བསད་
+
+ROMANIZED: sê
+
+
+
+
+
+DZONGKHA: བསྡམ་
+
+ROMANIZED: dam
+
+
+
+
+
+DZONGKHA: བསླབ་བྱ་
+
+ROMANIZED: ’lapja
+
+
+
+
+
+DZONGKHA: བསིལ་
+
+ROMANIZED: sî
+
+
+
+
+
+DZONGKHA: བུམོ་
+
+ROMANIZED: b’um
+
+
+
+
+
+DZONGKHA: བེད་སྤྱོད་འབད་
+
+ROMANIZED: b’ecöbe
+
+
+
+
+
+DZONGKHA: བོདཔ་
+
+ROMANIZED: B’öp
+
+
+
+
+
+DZONGKHA: མ་
+
+ROMANIZED: ma
+
+
+
+
+
+DZONGKHA: མཁྱེན་
+
+ROMANIZED: khen
+
+
+
+
+
+DZONGKHA: མཁྲིས་པ་
+
+ROMANIZED: thrîp
+
+
+
+
+
+DZONGKHA: མཁསཔ་
+
+ROMANIZED: khäp
+
+
+
+
+
+DZONGKHA: མགྱོན་ཁྱིམ་
+
+ROMANIZED: gönchim
+
+
+
+
+
+DZONGKHA: མགྱོནམ་
+
+ROMANIZED: göm
+
+
+
+
+
+DZONGKHA: མགརཝ་
+
+ROMANIZED: gâu
+
+
+
+
+
+DZONGKHA: མགུ་
+
+ROMANIZED: gu
+
+
+
+
+
+DZONGKHA: མངརམོ་
+
+ROMANIZED: ’ngâm
+
+
+
+
+
+DZONGKHA: མཆོངས་
+
+ROMANIZED: chong
+
+
+
+
+
+DZONGKHA: མཇུག་མ་
+
+ROMANIZED: juma
+
+
+
+
+
+DZONGKHA: མཇེ་
+
+ROMANIZED: je
+
+
+
+
+
+DZONGKHA: མཉམ་
+
+ROMANIZED: ’nyam
+
+
+
+
+
+DZONGKHA: མཉམ་གཅིག་
+
+ROMANIZED: ’nyamci
+
+
+
+
+
+DZONGKHA: མཐོ་
+
+ROMANIZED: tho
+
+
+
+
+
+DZONGKHA: མདའ་ཕོག་
+
+ROMANIZED: daphô
+
+
+
+
+
+DZONGKHA: མདེའུ་
+
+ROMANIZED: diu
+
+
+
+
+
+DZONGKHA: མནའམ་
+
+ROMANIZED: ’nam
+
+
+
+
+
+DZONGKHA: མནར་
+
+ROMANIZED: nâ
+
+
+
+
+
+DZONGKHA: མནར་
+
+ROMANIZED: na,
+
+
+
+
+
+DZONGKHA: མནོ་བསམ་
+
+ROMANIZED: ’nosa
+
+
+
+
+
+DZONGKHA: མཚམས་
+
+ROMANIZED: tsham
+
+
+
+
+
+DZONGKHA: མཛེ་ནད་
+
+ROMANIZED: dzêne
+
+
+
+
+
+DZONGKHA: མར་
+
+ROMANIZED: mâ
+
+
+
+
+
+DZONGKHA: མར་
+
+ROMANIZED: mâ
+
+
+
+
+
+DZONGKHA: མར་ཁུ་
+
+ROMANIZED: mâkhu
+
+
+
+
+
+DZONGKHA: མས་
+
+ROMANIZED: me
+
+
+
+
+
+DZONGKHA: མིག་ཏོ་
+
+ROMANIZED: ’mito
+
+
+
+
+
+DZONGKHA: མིང་
+
+ROMANIZED: meng
+
+
+
+
+
+DZONGKHA: མིང་
+
+ROMANIZED: meng
+
+
+
+
+
+DZONGKHA: མེ་
+
+ROMANIZED: mi
+
+
+
+
+
+DZONGKHA: མེད་
+
+ROMANIZED: mê
+
+
+
+
+
+DZONGKHA: མེད་པར་
+
+ROMANIZED: meba
+
+
+
+
+
+DZONGKHA: ཙ་རི་
+
+ROMANIZED: Tsari
+
+
+
+
+
+DZONGKHA: ཙན་དན་
+
+ROMANIZED: tsende
+
+
+
+
+
+DZONGKHA: ཚང་
+
+ROMANIZED: tshang
+
+
+
+
+
+DZONGKHA: ཚད་
+
+ROMANIZED: tshê
+
+
+
+
+
+DZONGKHA: ཚད་པའི་ནད་
+
+ROMANIZED: tshebinê
+
+
+
+
+
+DZONGKHA: ཚབོ་
+
+ROMANIZED: tshô
+
+
+
+
+
+DZONGKHA: ཚྭ་
+
+ROMANIZED: tsha
+
+
+
+
+
+DZONGKHA: ཚལ་མ་
+
+ROMANIZED: tshäma
+
+
+
+
+
+DZONGKHA: ཚལ་ལུ་
+
+ROMANIZED: tshälu
+
+
+
+
+
+DZONGKHA: ཚེ་རིང་
+
+ROMANIZED: Tshiri
+
+
+
+
+
+DZONGKHA: ཚོགས་ལྷྭམ་
+
+ROMANIZED: tshô-lham
+
+
+
+
+
+DZONGKHA: ཚོང་ཁང་
+
+ROMANIZED: tshongkha
+
+
+
+
+
+DZONGKHA: ཛ་ཏི་
+
+ROMANIZED: dzati
+
+
+
+
+
+DZONGKHA: ཝ་
+
+ROMANIZED: wa
+
+
+
+
+
+DZONGKHA: ཝ་གཤོང་
+
+ROMANIZED: wosho
+
+
+
+
+
+DZONGKHA: ཝང་
+
+ROMANIZED: Wang
+
+
+
+
+
+DZONGKHA: ཞབས་
+
+ROMANIZED: zh’ap
+
+
+
+
+
+DZONGKHA: ཞབས་ཁྲ་
+
+ROMANIZED: zh’apthra
+
+
+
+
+
+DZONGKHA: ཞྭམོ་
+
+ROMANIZED: zh’am
+
+
+
+
+
+DZONGKHA: ཞྭཝ་
+
+ROMANIZED: zh’au
+
+
+
+
+
+DZONGKHA: ཞལ་
+
+ROMANIZED: zh’ä
+
+
+
+
+
+DZONGKHA: ཞིང་
+
+ROMANIZED: zh’ing
+
+
+
+
+
+DZONGKHA: ཞོ་
+
+ROMANIZED: zh’o
+
+
+
+
+
+DZONGKHA: ཟ་
+
+ROMANIZED: z’a
+
+
+
+
+
+DZONGKHA: ཟ་ཁང་
+
+ROMANIZED: z’akha
+
+
+
+
+
+DZONGKHA: ཟམ་
+
+ROMANIZED: z’am
+
+
+
+
+
+DZONGKHA: ཟླ་བ་
+
+ROMANIZED: dau
+
+
+
+
+
+DZONGKHA: ཟུག་
+
+ROMANIZED: z’û
+
+
+
+
+
+DZONGKHA: ཟེ་
+
+ROMANIZED: z’e
+
+
+
+
+
+DZONGKHA: ཟེ་
+
+ROMANIZED: z’e
+
+
+
+
+
+DZONGKHA: ཟེར་
+
+ROMANIZED: z’ê
+
+
+
+
+
+DZONGKHA: ཟོགཔ་
+
+ROMANIZED: z’op
+
+
+
+
+
+DZONGKHA: ཟོརཝ་
+
+ROMANIZED: z’ou
+
+
+
+
+
+DZONGKHA: འཁྱིད་
+
+ROMANIZED: khi
+
+
+
+
+
+DZONGKHA: འཁྱུ་
+
+ROMANIZED: chu
+
+
+
+
+
+DZONGKHA: འཁརཝ་
+
+ROMANIZED: khâu
+
+
+
+
+
+DZONGKHA: འཁྲུངས་
+
+ROMANIZED: thrung
+
+
+
+
+
+DZONGKHA: འགན་ཁག་
+
+ROMANIZED: genkha
+
+
+
+
+
+DZONGKHA: འགྱིར་
+
+ROMANIZED: gî
+
+
+
+
+
+DZONGKHA: འགྱོ་ནི་
+
+ROMANIZED: joni
+
+
+
+
+
+DZONGKHA: འཆམ་
+
+ROMANIZED: cham
+
+
+
+
+
+DZONGKHA: འཆའ་སྒམ་
+
+ROMANIZED: châgam
+
+
+
+
+
+DZONGKHA: འཆར་གཞི་
+
+ROMANIZED: châzhi
+
+
+
+
+
+DZONGKHA: འཇམ་ཏོག་ཏོ
+
+ROMANIZED: jamtoto
+
+
+
+
+
+DZONGKHA: འཇམ་དབྱངས་
+
+ROMANIZED: Jamyang
+
+
+
+
+
+DZONGKHA: འཇའ་ཚོན་
+
+ROMANIZED: jatshön
+
+
+
+
+
+DZONGKHA: འཇའ་རིསམོ་
+
+ROMANIZED: j’ârim
+
+
+
+
+
+DZONGKHA: འཐོབ་
+
+ROMANIZED: thop
+
+
+
+
+
+DZONGKHA: འདམ་
+
+ROMANIZED: dam
+
+
+
+
+
+DZONGKHA: འདྲ་བཤུས་
+
+ROMANIZED: drashü,
+
+
+
+
+
+DZONGKHA: འདུག་
+
+ROMANIZED: dû
+
+
+
+
+
+DZONGKHA: འཕྱེངམ་
+
+ROMANIZED: pchêm
+
+
+
+
+
+DZONGKHA: འཕྲང་འཕྲང་
+
+ROMANIZED: thrangthra
+
+
+
+
+
+DZONGKHA: འཕྲོད་
+
+ROMANIZED: thrö
+
+
+
+
+
+DZONGKHA: འབག་ཤོག་ཤིག་
+
+ROMANIZED: Bâshosh!
+
+
+
+
+
+DZONGKHA: འབའ་
+
+ROMANIZED: ba
+
+
+
+
+
+DZONGKHA: འབྱང་
+
+ROMANIZED: bjang
+
+
+
+
+
+DZONGKHA: འབྱཱ་
+
+ROMANIZED: bjâ
+
+
+
+
+
+DZONGKHA: འབྱུ་
+
+ROMANIZED: bju
+
+
+
+
+
+DZONGKHA: འབྲུག་
+
+ROMANIZED: drû
+
+
+
+
+
+DZONGKHA: འབྲུག་གཞུང་
+
+ROMANIZED: Dru
+
+
+
+
+
+DZONGKHA: འབྲུག་ཡུལ་
+
+ROMANIZED: Dru
+
+
+
+
+
+DZONGKHA: འབལ་
+
+ROMANIZED: bä
+
+
+
+
+
+DZONGKHA: འབལ་
+
+ROMANIZED: bä
+
+
+
+
+
+DZONGKHA: འབུཔ་
+
+ROMANIZED: bup
+
+
+
+
+
+DZONGKHA: འབུམ་
+
+ROMANIZED: bum
+
+
+
+
+
+DZONGKHA: འཛམ་གླིང་
+
+ROMANIZED: dzamling
+
+
+
+
+
+DZONGKHA: འཛརཝ་
+
+ROMANIZED: dzâu
+
+
+
+
+
+DZONGKHA: འུགཔ་
+
+ROMANIZED: ûp
+
+
+
+
+
+DZONGKHA: འུབ་
+
+ROMANIZED: up
+
+
+
+
+
+DZONGKHA: འོངམ་
+
+ROMANIZED: ôm
+
+
+
+
+
+DZONGKHA: འོད་ཆེམ་ཆེམ་
+
+ROMANIZED: öchemche
+
+
+
+
+
+DZONGKHA: འོད་ཟེར་
+
+ROMANIZED: öz’e
+
+
+
+
+
+DZONGKHA: ཡབ་
+
+ROMANIZED: yap
+
+
+
+
+
+DZONGKHA: ཡིག་ཚང་
+
+ROMANIZED: yitsha
+
+
+
+
+
+DZONGKHA: ཡུམ་
+
+ROMANIZED: yum
+
+
+
+
+
+DZONGKHA: རྐངམ་
+
+ROMANIZED: kâm
+
+
+
+
+
+DZONGKHA: རྐན་
+
+ROMANIZED: ken
+
+
+
+
+
+DZONGKHA: རྐྱེན་
+
+ROMANIZED: ken
+
+
+
+
+
+DZONGKHA: རྐེདཔ་
+
+ROMANIZED: kep
+
+
+
+
+
+DZONGKHA: རྐེདཔ་
+
+ROMANIZED: kep
+
+
+
+
+
+DZONGKHA: རྒྱ་བོ་
+
+ROMANIZED: jau
+
+
+
+
+
+DZONGKHA: རྒྱ་སྦོམ་
+
+ROMANIZED: jabôm
+
+
+
+
+
+DZONGKHA: རྒྱབ་
+
+ROMANIZED: jap
+
+
+
+
+
+DZONGKHA: རྒྱལཔོ་
+
+ROMANIZED: gäp
+
+
+
+
+
+DZONGKHA: རྒྱུ་
+
+ROMANIZED: ju
+
+
+
+
+
+DZONGKHA: རྒྱུ་མ་
+
+ROMANIZED: juma
+
+
+
+
+
+DZONGKHA: རྒསཔ་
+
+ROMANIZED: gep
+
+
+
+
+
+DZONGKHA: རྒུན་འབྲུམ་
+
+ROMANIZED: gündrum
+
+
+
+
+
+DZONGKHA: རྒེད་འོག་
+
+ROMANIZED: Geo
+
+
+
+
+
+DZONGKHA: རྒེདཔོ་
+
+ROMANIZED: gap
+
+
+
+
+
+DZONGKHA: རང་དབང་
+
+ROMANIZED: rangwa
+
+
+
+
+
+DZONGKHA: རྔ་
+
+ROMANIZED: ’nga
+
+
+
+
+
+DZONGKHA: རྗེ་མཁན་པོ་
+
+ROMANIZED: jêkhembo
+
+
+
+
+
+DZONGKHA: རྙིངམ་
+
+ROMANIZED: ’nyîm
+
+
+
+
+
+DZONGKHA: རྟ་
+
+ROMANIZED: ta
+
+
+
+
+
+DZONGKHA: རྟིངམ་
+
+ROMANIZED: tim
+
+
+
+
+
+DZONGKHA: རྡོ་
+
+ROMANIZED: do
+
+
+
+
+
+DZONGKHA: རྡོ་
+
+ROMANIZED: do
+
+
+
+
+
+DZONGKHA: རྣག་
+
+ROMANIZED: ’nâ
+
+
+
+
+
+DZONGKHA: རྣམ་ཅོ་
+
+ROMANIZED: ’namco
+
+
+
+
+
+DZONGKHA: རྦད་
+
+ROMANIZED: bê
+
+
+
+
+
+DZONGKHA: རྨ་
+
+ROMANIZED: ’ma
+
+
+
+
+
+DZONGKHA: རྨགཔ་
+
+ROMANIZED: husband
+
+
+
+
+
+DZONGKHA: རྨགཔ་
+
+ROMANIZED: ’map
+
+
+
+
+
+DZONGKHA: རྨགཔ་
+
+ROMANIZED: ’map
+
+
+
+
+
+DZONGKHA: རྩང་
+
+ROMANIZED: tsang
+
+
+
+
+
+DZONGKHA: རྩཝ་
+
+ROMANIZED: tsau
+
+
+
+
+
+DZONGKHA: རྩྭ་
+
+ROMANIZED: tsa
+
+
+
+
+
+DZONGKHA: རྩྭམ་འབྲོག་
+
+ROMANIZED: tsamdro
+
+
+
+
+
+DZONGKHA: རྩིགཔ་
+
+ROMANIZED: tsip
+
+
+
+
+
+DZONGKHA: རྩིགཔ་
+
+ROMANIZED: tsip
+
+
+
+
+
+DZONGKHA: རྩིགཔ་
+
+ROMANIZED: stone
+
+
+
+
+
+DZONGKHA: རྩིསཔ་
+
+ROMANIZED: tsîp
+
+
+
+
+
+DZONGKHA: རྩིསཔ་
+
+ROMANIZED: tsîp
+
+
+
+
+
+DZONGKHA: རྩིསཔ་
+
+ROMANIZED: tsîp
+
+
+
+
+
+DZONGKHA: རྩིསཔ་
+
+ROMANIZED: astrologer
+
+
+
+
+
+DZONGKHA: རྫམ་
+
+ROMANIZED: dzam
+
+
+
+
+
+DZONGKHA: རྫས་
+
+ROMANIZED: dzä
+
+
+
+
+
+DZONGKHA: རྫོང་ཁ་
+
+ROMANIZED: Dzongkha
+
+
+
+
+
+DZONGKHA: རྭ་ཝོ་
+
+ROMANIZED: rau
+
+
+
+
+
+DZONGKHA: རླུང་
+
+ROMANIZED: ’lung
+
+
+
+
+
+DZONGKHA: རླུང་ནད་
+
+ROMANIZED: ’lungne
+
+
+
+
+
+DZONGKHA: རིག་པ་ཡོད་མི་
+
+ROMANIZED: rikpayömi
+
+
+
+
+
+DZONGKHA: རོ་ཁྱི་
+
+ROMANIZED: rochi
+
+
+
+
+
+DZONGKHA: ལ་
+
+ROMANIZED: la
+
+
+
+
+
+DZONGKHA: ལ་
+
+ROMANIZED: la
+
+
+
+
+
+DZONGKHA: ལྐུགས་པ་
+
+ROMANIZED: kukpa
+
+
+
+
+
+DZONGKHA: ལགཔ་
+
+ROMANIZED: lap
+
+
+
+
+
+DZONGKHA: ལགཔ་གཡོནམ་
+
+ROMANIZED: lap
+
+
+
+
+
+DZONGKHA: ལྒང་ཕུ་
+
+ROMANIZED: gangphu
+
+
+
+
+
+DZONGKHA: ལངམ་
+
+ROMANIZED: lâm
+
+
+
+
+
+DZONGKHA: ལྔ་
+
+ROMANIZED: ’nga
+
+
+
+
+
+DZONGKHA: ལྔ་
+
+ROMANIZED: ’nga
+
+
+
+
+
+DZONGKHA: ལྕགས་
+
+ROMANIZED: câ
+
+
+
+
+
+DZONGKHA: ལྕགས་ཀྱུ་
+
+ROMANIZED: câcu
+
+
+
+
+
+DZONGKHA: ལྕགས་གཟེར་
+
+ROMANIZED: cangdze
+
+
+
+
+
+DZONGKHA: ལྕགས་གཟེར་
+
+ROMANIZED: cangdze
+
+
+
+
+
+DZONGKHA: ལྕེ་
+
+ROMANIZED: ce
+
+
+
+
+
+DZONGKHA: ལྗིད་
+
+ROMANIZED: jî
+
+
+
+
+
+DZONGKHA: ལྗིད་ཅན་
+
+ROMANIZED: jice
+
+
+
+
+
+DZONGKHA: ལྟགཔ་
+
+ROMANIZED: tap
+
+
+
+
+
+DZONGKHA: ལྟདམོ་
+
+ROMANIZED: têm
+
+
+
+
+
+DZONGKHA: ལྟེ་བ་
+
+ROMANIZED: tewa
+
+
+
+
+
+DZONGKHA: ལྟེ་བ་
+
+ROMANIZED: tewa
+
+
+
+
+
+DZONGKHA: ལྟེཝ་
+
+ROMANIZED: tiu
+
+
+
+
+
+DZONGKHA: ལྟོ་
+
+ROMANIZED: to
+
+
+
+
+
+DZONGKHA: ལྟོ་ཚང་
+
+ROMANIZED: totsha
+
+
+
+
+
+DZONGKHA: ལྡེ་མིག་
+
+ROMANIZED: dimi
+
+
+
+
+
+DZONGKHA: ལམ་
+
+ROMANIZED: lam
+
+
+
+
+
+DZONGKHA: ལམ་
+
+ROMANIZED: lam
+
+
+
+
+
+DZONGKHA: ལྷ་
+
+ROMANIZED: lha
+
+
+
+
+
+DZONGKHA: ལྷ་ཁང་
+
+ROMANIZED: lhaga
+
+
+
+
+
+DZONGKHA: ལྷག་
+
+ROMANIZED: lhâ
+
+
+
+
+
+DZONGKHA: ལྷགཔ་
+
+ROMANIZED: Lhap
+
+
+
+
+
+DZONGKHA: ལྷབ་
+
+ROMANIZED: lhap
+
+
+
+
+
+DZONGKHA: ལྷབ་
+
+ROMANIZED: lhap
+
+
+
+
+
+DZONGKHA: ལྷྭམ་ཡ་གཅིག་
+
+ROMANIZED: lhamyaci
+
+
+
+
+
+DZONGKHA: ལྷོད་
+
+ROMANIZED: lhö
+
+
+
+
+
+DZONGKHA: ལཱ་
+
+ROMANIZED: lâ
+
+
+
+
+
+DZONGKHA: ལཱ་
+
+ROMANIZED: lâ
+
+
+
+
+
+DZONGKHA: ལཱ་ཁག་
+
+ROMANIZED: lâkha
+
+
+
+
+
+DZONGKHA: ལི་
+
+ROMANIZED: li
+
+
+
+
+
+DZONGKHA: ལུག་
+
+ROMANIZED: lû
+
+
+
+
+
+DZONGKHA: ལུག་
+
+ROMANIZED: lû
+
+
+
+
+
+DZONGKHA: ལུག་
+
+ROMANIZED: lû
+
+
+
+
+
+DZONGKHA: ལུད་
+
+ROMANIZED: lü
+
+
+
+
+
+DZONGKHA: ལུད་
+
+ROMANIZED: lü
+
+
+
+
+
+DZONGKHA: ལོ་
+
+ROMANIZED: lo
+
+
+
+
+
+DZONGKHA: ལོ་
+
+ROMANIZED: lo
+
+
+
+
+
+DZONGKHA: ཤ་
+
+ROMANIZED: sha
+
+
+
+
+
+DZONGKHA: ཤ་
+
+ROMANIZED: sha
+
+
+
+
+
+DZONGKHA: ཤྭཝ་
+
+ROMANIZED: shau
+
+
+
+
+
+DZONGKHA: ཤར་
+
+ROMANIZED: shâ
+
+
+
+
+
+DZONGKHA: ཤལཝ་
+
+ROMANIZED: shäu
+
+
+
+
+
+DZONGKHA: ཤི་
+
+ROMANIZED: shi
+
+
+
+
+
+DZONGKHA: ཤི་ནི་
+
+ROMANIZED: shini
+
+
+
+
+
+DZONGKHA: ཤིང་
+
+ROMANIZED: shing
+
+
+
+
+
+DZONGKHA: ཤིང་
+
+ROMANIZED: shing
+
+
+
+
+
+DZONGKHA: ཤེས་
+
+ROMANIZED: shê
+
+
+
+
+
+DZONGKHA: ཤེས་ནི་
+
+ROMANIZED: shêni
+
+
+
+
+
+DZONGKHA: ཤོ་
+
+ROMANIZED: sho
+
+
+
+
+
+DZONGKHA: ཤོག་
+
+ROMANIZED: shô
+
+
+
+
+
+DZONGKHA: ས་
+
+ROMANIZED: sa
+
+
+
+
+
+DZONGKHA: ས་ཁྲ་
+
+ROMANIZED: sapthra
+
+
+
+
+
+DZONGKHA: སྐམ་
+
+ROMANIZED: kam
+
+
+
+
+
+DZONGKHA: སྐྱ་
+
+ROMANIZED: ca
+
+
+
+
+
+DZONGKHA: སྐྱིད་
+
+ROMANIZED: ki
+
+
+
+
+
+DZONGKHA: སྐྱུརཔོ་
+
+ROMANIZED: cûp
+
+
+
+
+
+DZONGKHA: སྐྱོན་
+
+ROMANIZED: kön
+
+
+
+
+
+DZONGKHA: སྐུ་
+
+ROMANIZED: honorific
+
+
+
+
+
+DZONGKHA: སྐུ་
+
+ROMANIZED: ku
+
+
+
+
+
+DZONGKHA: སྐུདཔ་
+
+ROMANIZED: küp
+
+
+
+
+
+DZONGKHA: སྒ་
+
+ROMANIZED: ga
+
+
+
+
+
+DZONGKHA: སྒྲོ་
+
+ROMANIZED: dro
+
+
+
+
+
+DZONGKHA: སྒོ་
+
+ROMANIZED: go
+
+
+
+
+
+DZONGKHA: སྒོ་
+
+ROMANIZED: go
+
+
+
+
+
+DZONGKHA: སྒོགཔ་
+
+ROMANIZED: gop
+
+
+
+
+
+DZONGKHA: སྒོགཔ་
+
+ROMANIZED: gop
+
+
+
+
+
+DZONGKHA: སངས་རྒྱས་
+
+ROMANIZED: Sangge
+
+
+
+
+
+DZONGKHA: སྔགས་པ་
+
+ROMANIZED: ’ngakpa
+
+
+
+
+
+DZONGKHA: སྔུ་
+
+ROMANIZED: ’ngu
+
+
+
+
+
+DZONGKHA: སྔོན་འཇུག་
+
+ROMANIZED: ’nyönju
+
+
+
+
+
+DZONGKHA: སྙིང་རྗེ་
+
+ROMANIZED: ’nyingje
+
+
+
+
+
+DZONGKHA: སྟག་
+
+ROMANIZED: tâ
+
+
+
+
+
+DZONGKHA: སྟག་
+
+ROMANIZED: tâ
+
+
+
+
+
+DZONGKHA: སྟག་ལྤགས་
+
+ROMANIZED: tâpa
+
+
+
+
+
+DZONGKHA: སྟོན་
+
+ROMANIZED: tön
+
+
+
+
+
+DZONGKHA: སྡིག་ཅན་
+
+ROMANIZED: dikcen
+
+
+
+
+
+DZONGKHA: སྡོད་
+
+ROMANIZED: dö
+
+
+
+
+
+DZONGKHA: སྡོད་
+
+ROMANIZED: dö
+
+
+
+
+
+DZONGKHA: སྡོད་
+
+ROMANIZED: dö
+
+
+
+
+
+DZONGKHA: སྡོད་
+
+ROMANIZED: dö
+
+
+
+
+
+DZONGKHA: སྡོད་ཤིག་
+
+ROMANIZED: śig
+
+
+
+
+
+DZONGKHA: སྣག་རྩི་
+
+ROMANIZED: ’natsi
+
+
+
+
+
+DZONGKHA: སྤགས་
+
+ROMANIZED: pâ
+
+
+
+
+
+DZONGKHA: སྤའ་འོ་
+
+ROMANIZED: pâo
+
+
+
+
+
+DZONGKHA: སྤྱ་
+
+ROMANIZED: pca
+
+
+
+
+
+DZONGKHA: སྤྱང་ཀ་
+
+ROMANIZED: pcangka
+
+
+
+
+
+DZONGKHA: སྤྱི་མི་
+
+ROMANIZED: cimi
+
+
+
+
+
+DZONGKHA: སྤྱིན་
+
+ROMANIZED: pcing
+
+
+
+
+
+DZONGKHA: སྤྱིའུ་ལྟགཔ་
+
+ROMANIZED: ciud’âp
+
+
+
+
+
+DZONGKHA: སྤྱོད་པ་
+
+ROMANIZED: cöba
+
+
+
+
+
+DZONGKHA: སྤྲོ་སྟོན་
+
+ROMANIZED: trotön
+
+
+
+
+
+DZONGKHA: སྤྲོད་
+
+ROMANIZED: trö
+
+
+
+
+
+DZONGKHA: སྤུ་
+
+ROMANIZED: pu
+
+
+
+
+
+DZONGKHA: སྤོས་
+
+ROMANIZED: pö
+
+
+
+
+
+DZONGKHA: སྦྱང་
+
+ROMANIZED: bjang
+
+
+
+
+
+DZONGKHA: སྦྱང་ནག་
+
+ROMANIZED: bjâ’na
+
+
+
+
+
+DZONGKHA: སྦྱངམ་
+
+ROMANIZED: bjâm
+
+
+
+
+
+DZONGKHA: སྦྱི་ལི་
+
+ROMANIZED: bj’ili
+
+
+
+
+
+DZONGKHA: སྦྱིན་བདག་
+
+ROMANIZED: jinda
+
+
+
+
+
+DZONGKHA: སྦྲམ་ཙི་
+
+ROMANIZED: dramsi
+
+
+
+
+
+DZONGKHA: སྦལཔ་
+
+ROMANIZED: bäp
+
+
+
+
+
+DZONGKHA: སྦུག་ལུ་
+
+ROMANIZED: bûlu
+
+
+
+
+
+DZONGKHA: སྦུལ་
+
+ROMANIZED: bü
+
+
+
+
+
+DZONGKHA: སྦོམ་
+
+ROMANIZED: bôm
+
+
+
+
+
+DZONGKHA: སྨན་
+
+ROMANIZED: ’men
+
+
+
+
+
+DZONGKHA: སྨྱུ་གུ་
+
+ROMANIZED: ’nyug’u
+
+
+
+
+
+DZONGKHA: སྨོ་ཤིག་
+
+ROMANIZED: ’Mosh?
+
+
+
+
+
+DZONGKHA: སྲ་ཀྲག་ཀྲ་
+
+ROMANIZED: satratra
+
+
+
+
+
+DZONGKHA: སྲནམ་
+
+ROMANIZED: sem
+
+
+
+
+
+DZONGKHA: སྲས་
+
+ROMANIZED: sä
+
+
+
+
+
+DZONGKHA: སྲས་
+
+ROMANIZED: sä
+
+
+
+
+
+DZONGKHA: སྲསམོ་
+
+ROMANIZED: säm
+
+
+
+
+
+DZONGKHA: སྲིངམོ་
+
+ROMANIZED: sîm
+
+
+
+
+
+DZONGKHA: སྲིངམོ་
+
+ROMANIZED: sîm
+
+
+
+
+
+DZONGKHA: སྲིནམོ་
+
+ROMANIZED: sim
+
+
+
+
+
+DZONGKHA: སྲུངམ་
+
+ROMANIZED: sum
+
+
+
+
+
+DZONGKHA: སླབ་
+
+ROMANIZED: ’lap
+
+
+
+
+
+DZONGKHA: སློབ་གྲྭ་
+
+ROMANIZED: ’lopdra
+
+
+
+
+
+DZONGKHA: སློབ་དཔོན་
+
+ROMANIZED: ’löbö
+
+
+
+
+
+DZONGKHA: སེམས་
+
+ROMANIZED: sem
+
+
+
+
+
+DZONGKHA: སེར་སྦྱངམ་
+
+ROMANIZED: sibjâm
+
+
+
+
+
+DZONGKHA: སེརཔོ་
+
+ROMANIZED: yellow
+
+
+
+
+
+DZONGKHA: སེརཔོ་
+
+ROMANIZED: sêp
+
+
+
+
+
+DZONGKHA: སེརཔོ་
+
+ROMANIZED: sêp
+
+
+
+
+
+DZONGKHA: སོ་
+
+ROMANIZED: so
+
+
+
+
+
+DZONGKHA: སོ་
+
+ROMANIZED: so
+
+
+
+
+
+DZONGKHA: སོར་
+
+ROMANIZED: sô
+
+
+
+
+
+DZONGKHA: ཧ་སག་
+
+ROMANIZED: hâsa
+
+
+
+
+
+DZONGKHA: ཧང་
+
+ROMANIZED: hang
+
+
+
+
+
+DZONGKHA: ཧད་
+
+ROMANIZED: ཧཱ་
+
+
+
+
+
+DZONGKHA: ཧྲལ་
+
+ROMANIZED: hrä
+
+
+
+
+
+DZONGKHA: ཧྲིལཔོ་
+
+ROMANIZED: hribu,
+
+
+
+
+
+DZONGKHA: ཧིང་
+
+ROMANIZED: hing
+
+
+
+
+
+DZONGKHA: ཨ་ཞེ་
+
+ROMANIZED: ’azhi
+
+
+
+
+
+DZONGKHA: ཨའི་
+
+ROMANIZED: ’ai
+
+
+
+
+
+DZONGKHA: ཨིན་
+
+ROMANIZED: ’ing
+
+
+
+
+
+DZONGKHA: ཨུ་ཚུགས་ཅན་
+
+ROMANIZED: ’utsucen
+
+
+
+
+
+DZONGKHA: ཨེར་མ་
+
+ROMANIZED: ’êma
+
+
+
+
+
+DZONGKHA: ཨོམ་
+
+ROMANIZED: ’ôm
+
+
+
+
+
+DZONGKHA: ཨོལ་ལྐོག་
+
+ROMANIZED: ’öko
+
+
+
+
+
+DZONGKHA: བང་ཅུང་
+
+ROMANIZED: b’angcu,
+
+
+
+
+
+DZONGKHA: བལཔ་སེའུ་
+
+ROMANIZED: b’äpsiu,
+
+
+
+
+
+DZONGKHA: འབོ་ལོ་ཁར་
+
+ROMANIZED: bolokha,
+
+
+
+
+
+DZONGKHA: སྦག་པ་
+
+ROMANIZED: bakpa,
+
+
+
+
+
+DZONGKHA: སྦོམ་
+
+ROMANIZED: bôm,
+
+
+
+
+
+DZONGKHA: ཨ་ལུ་
+
+ROMANIZED: ’alu,
+
+
+
+
+
+DZONGKHA: ཨམ་ཚུ་
+
+ROMANIZED: ’amtshu,
+
+
+
+
+
+DZONGKHA: དྲག་ཤོས་ — ཁྱོད་ཀྱིས་ཡིག་ཚང་གི་མ་དངུལ་དེ་ཚུ་ག་ར་ཐོབ་ཅི་ག།
+
+ROMANIZED: Dr’âsho — Chö-gi yitsha-gi ma-ngü-di-tshu g’âra thop-ci-ga?
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — ཨཱ་ ནཱ་འོང་པ་ཅིན་སྟེ་ འཕྲང་ཡར་ནདཔ་བཞག་སར་ཤོག་མས། ང་ལཱ་ཡར་ ནདཔ་བཞག་སར་ཨིན།
+
+ROMANIZED: Kinle — ’Â, nâ ong-macin, te thrang yâ nep zhasa shô’me. Nga lâ yâ nêp zhasa ’ing.
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — ཨེང་མིང་ལེགས་ཞིམ་འདུག། ཁྱོད་ལུ་རྨགཔ་ཡོད་ག།
+
+ROMANIZED: Kinle — ’Eng, meng läzhim dû. Chö-lu ’map yö-ga?
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — དབའེ་ཁྱོད་ག་ཏེ་ལས་སྨོ་བུམོ་ཁོ་རེ།
+
+ROMANIZED: Kinle — ’Wae, chö g’âti-le mo, b’um khore?
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — དབའེ། དེ་སྦེ་མ་སླབ་དབའེ། ང་བཅས་ཀྱིས་ག་ནི་ཡང་བྱིན་ནི་མེད་པར།
+
+ROMANIZED: Kinle — ’Wae! D’ebe ma’lap ’wae! Ngace-gi g’anee bj’in-ni meba.
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — ཁྱོད་ཀྱི་མིང་ག་ཅི་ཟེརཝ་སྨོ།
+
+ROMANIZED: Kinle — Chö-gi meng g’aci z’eu mo?
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — དེནི་ཨའི་དང་ཨ་པ་ཡོད་ག།
+
+ROMANIZED: Kinle — D’en ’ai da ’apa yö-ga?
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — ལགས་སོ།།
+
+ROMANIZED: Kinle — Laso.
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — མེད་དབའེ། ད་ལྟོ་ལས་ཨམ་ཚུ་ག་ཏེ་འོང་ནི་ས།
+
+ROMANIZED: Kinle — Mê, ’wae! D’ato-le ’amtshu g’âti ong-ni sâ?
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — ནཱ་ཐིམ་ཕུག་སྨན་ཁང་ནང་ཨིན།
+
+ROMANIZED: Kinle — Nâ, Thimphu ’Menkha-na ’ing.
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — ནམ་ལོག་འགྱོ་ནི།
+
+ROMANIZED: Kinle — Nam lo jo-ni?
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — ང་བཅས་ཧེ་མ་སློབ་གྲྭ་གཅིག་ཁར་བལྟ་ཡི་མེན་ན།
+
+ROMANIZED: Kinle — Ngace hema ’lopdra cikha ta-yi, me-na?
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — ཤོག་དབའེ། ག་ཡང་མེད། ང་རང་རྐྱངམ་གཅིག་རང་ཨིན།
+
+ROMANIZED: Kinle — Shô, ’wae! G’â-e mê. Nga-ra câmci-ra ’ing.
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — སྟེ་ཁྱོད་ཀྱིས་ང་ངོ་ཤེས་ཅི་ག།
+
+ROMANIZED: Kinle — Te, chö-gi nga ngoshê-ci-ga?
+
+
+
+
+
+DZONGKHA: ཀུན་ལེགས་ — སྟེ་ད་རེས་ཁྱོད་ནཱ་ཐིམ་ཕུག་ལུ་ག་དེམ་ཅིག་འབད་འོངམ།
+
+ROMANIZED: Kinle — Te, d’are chö nâ Thimphu-lu g’ademci-be ôm?
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — ཨའི་ཡོད་ཨ་པ་མེད་ལགས། ཨ་པ་ ཧེ་མ་ང་ཆུང་ཀུ་སྒང་ལས་གྱོངས་སོ་ ནུག།
+
+ROMANIZED: Päm — ’Ai yö. ’Apa mê lâ. ’Apa hema nga chunku-gang-le j’ongso-nu.
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — ཨེང་ཨིན་པས་དབའེ། ཨའུ་ཀུན་ལེགས་ཨིན་པས་སྦོ་སྟེ། ཛའི་དབའེ། ད་ ངོ་མ་ཤེསཔ་རང་ཡར་སོ་ནུག། སྟེ་ཕྱག་ལཱ་ག་ཏེ་ཨིནམ།
+
+ROMANIZED: Päm — ’Eng, ’ime, ’wae! ’Au Kinle ’ime bô te. Dzai! ’Wae! D’a ngo-ma-shêp-ra-yâ-so-nu. Te, châla g’âti ’im.
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — ཨེང་ལེགས་ཞིམ་ཨིན་པས་དབའེ། དེནེ་ད་ང་བཅས་ཡང ་སྨན་ཁང་ནང་ འོངམ་དང་ སྟབས་བདེ་ནི་མས་དབའེ།
+
+ROMANIZED: Päm — ’Eng, läzhim ’ime, ’wae! D’en d’a ngace-e ’menkha-na ômda, tapde-ni-me, ’wae.
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — ཨིན་ན། དེནི་ང་བཅས་རྟག་བུ་རང་ཡར་འཐོན་འོང་། ཁྱིམ་ནང་ག་ཡང་མེད་ ག།
+
+ROMANIZED: Päm — ’Ina? D’en ngace tabura yâ thöng-ong. Chi-na g’â-e me-ga?
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — ཆོ་གུ་བཏང་ནི་འབད་ ཉོ་ཚོང་གཅིག་རྐྱབ་པར་ འོང་འོངམ་ཨིན།
+
+ROMANIZED: Päm — Chog’u tang-ni-be nyoptsho-ci ca-ba ong-ôm ’ing.
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — ལགས་སོ། དེནི་ལོག་མཇལ་གེ། ད་རིས་ག་ནི་ཡང་ཕུལ་ནི་མིན་འདུག།
+
+ROMANIZED: Päm — Las, d’en lo jä-ge! D’ari g’ani-e phü-ni mindu.
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — ལགས་སོ། ཨའུ་ཀུན་ལེགས་ དེནི་ལོག་ཤུལ་ལས་ སྐུ་གཟུགས་ བཟངམ་འབད་ མཇལ་གེ།
+
+ROMANIZED: Päm — Laso, ’Au Kinle, D’en lo shü-le kuzuzâm-be jä-ge!
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — མེད་ལགས།
+
+ROMANIZED: Päm — Mê lâ.
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — ནང་པ་ཉོ་ཚོང་དེ་ཚུ་རྐྱབ་བཞག་སྦེ་ གནང་ཚེ་འགྱོ་ནི་ཨིན་ལགས།
+
+ROMANIZED: Päm — Nâba nyoptsho-di-tshu cap-zhâ-be ’nâtshe jo-ni ’ing lâ.
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — ང་ཤར་ལས་ཨིན་ལགས།
+
+ROMANIZED: Päm — Nga Shâ-le ’ing lâ.
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — ངོ་ཤེས་ནི་བཟུམ་ཅིག་འདུག། སྟེ་ ཐེ་རི་འབའ་རི་རང་ མི་ཤེས་པས་ ལགས།
+
+ROMANIZED: Päm — Ngoshê-ni zumci dû. Te, theribâri-ra mi-shê-be lâ.
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — དཔལམོ་ཟེརཝ་ཨིན་ལགས།
+
+ROMANIZED: Päm — Päm z’eu ’ing lâ.
+
+
+
+
+
+DZONGKHA: དཔལམོ་ — སྟེ་ ཨའུ་ཀུན་ལེགས་ཨམ་ཡོད་ག།
+
+ROMANIZED: Päm — Te, ’Au Kinle ’am yö-ga?
+
+
+
+
+
+DZONGKHA: པདྨ་ — གཞན་ག་ར་ཐོབ་ཅི་ལགས། དི་འབདཝ་དང་ ཟླ་རིམ་གི་དངུལ་ཕོགས་ཀྱི་ མ་དངུལ་དེ་མ་ཐོབ་ལགས།
+
+ROMANIZED: Pêma — Zhen g’âra thop-ci lâ. D’ibeuda darim-gi ’ngüpho-gi mangü-di ma-thop lâ.
+
+
+
+
+
+DZONGKHA: ཀྲིག་ཀྲི་
+
+ROMANIZED: triktri,
+
+
+
+
+
+DZONGKHA: ཀི་ལྟབ་
+
+ROMANIZED: kitap,
+
+
+
+
+
+DZONGKHA: ཁ་གཤག་
+
+ROMANIZED: khasha,
+
+
+
+
+
+DZONGKHA: ཁ་གསལ་འབད་
+
+ROMANIZED: khasebe,
+
+
+
+
+
+DZONGKHA: ཁ་ཐུག་
+
+ROMANIZED: khâthu,
+
+
+
+
+
+DZONGKHA: ཁ་ཕྱི་ནི་
+
+ROMANIZED: kha
+
+
+
+
+
+DZONGKHA: ཁ་རྩ་
+
+ROMANIZED: khâtsa,
+
+
+
+
+
+DZONGKHA: ཁག་
+
+ROMANIZED: khâ,
+
+
+
+
+
+DZONGKHA: ཁག་ཆེ་ཏོག་ཏོ་
+
+ROMANIZED: khâchetoto,
+
+
+
+
+
+DZONGKHA: ཁག་ཆེ་ནི་
+
+ROMANIZED: khâche-ni,
+
+
+
+
+
+DZONGKHA: ཁམས་གཙང་ཏོག་ཏོ་
+
+ROMANIZED: khamtsangtoto,
+
+
+
+
+
+DZONGKHA: ཁམས་དངས་ཏོག་ཏོ་
+
+ROMANIZED: khamd’angtoto,
+
+
+
+
+
+DZONGKHA: ཁམས་ལོག་སི་སི་
+
+ROMANIZED: khamlôsisi,
+
+
+
+
+
+DZONGKHA: ཁམས་སངས་
+
+ROMANIZED: khamsa,
+
+
+
+
+
+DZONGKHA: ཁཝ་
+
+ROMANIZED: khau,
+
+
+
+
+
+DZONGKHA: ཁྱད་པར་
+
+ROMANIZED: kheba,
+
+
+
+
+
+DZONGKHA: ཁར་
+
+ROMANIZED: kha,
+
+
+
+
+
+DZONGKHA: ཁྲག་
+
+ROMANIZED: thrâ,
+
+
+
+
+
+DZONGKHA: ཁྲོམ་ཁ་
+
+ROMANIZED: thromkha,
+
+
+
+
+
+DZONGKHA: ཁུ་ཆ་
+
+ROMANIZED: khuca,
+
+
+
+
+
+DZONGKHA: ཁུ་ཆ་འགྲུལ་འཁོར་
+
+ROMANIZED: khuca
+
+
+
+
+
+DZONGKHA: ཁུངས་
+
+ROMANIZED: khung,
+
+
+
+
+
+DZONGKHA: ཁེ་ཏོག་ཏོ་
+
+ROMANIZED: khetoto,
+
+
+
+
+
+DZONGKHA: ཁེ་རྒོད་
+
+ROMANIZED: khêko,
+
+
+
+
+
+DZONGKHA: ཁོ་རེ་
+
+ROMANIZED: khore,
+
+
+
+
+
+DZONGKHA: ག་ཏེ་
+
+ROMANIZED: g’âti,
+
+
+
+
+
+DZONGKHA: ག་ཏེ་ཡང་
+
+ROMANIZED: g’âtie,
+
+
+
+
+
+DZONGKHA: ག་དེམ་ཅིག་འབད་
+
+ROMANIZED: g’ademcibe,
+
+
+
+
+
+DZONGKHA: ག་ར་
+
+ROMANIZED: g’âra,
+
+
+
+
+
+DZONGKHA: གངམ་
+
+ROMANIZED: g’âm,
+
+
+
+
+
+DZONGKHA: གངས་
+
+ROMANIZED: g’ang,
+
+
+
+
+
+DZONGKHA: གཅིག་
+
+ROMANIZED: ci,
+
+
+
+
+
+DZONGKHA: གཅིག་འདི་
+
+ROMANIZED: cî-di,
+
+
+
+
+
+DZONGKHA: གཉིད་ཐལ་ནི་
+
+ROMANIZED: ’nyîthä-ni,
+
+
+
+
+
+DZONGKHA: གཉེན་
+
+ROMANIZED: ’nyen,
+
+
+
+
+
+DZONGKHA: གཏམ་རྒྱུད་
+
+ROMANIZED: tamjü,
+
+
+
+
+
+DZONGKHA: གནགཔ་
+
+ROMANIZED: ’nap,
+
+
+
+
+
+DZONGKHA: གནང་ནི་
+
+ROMANIZED: ’nang-ni,
+
+
+
+
+
+DZONGKHA: གནང་ནི་
+
+ROMANIZED: ’nang-ni,
+
+
+
+
+
+DZONGKHA: གནམ་
+
+ROMANIZED: ’nam,
+
+
+
+
+
+DZONGKHA: གནམ་
+
+ROMANIZED: ’nam,
+
+
+
+
+
+DZONGKHA: གནམ་གྲུ་
+
+ROMANIZED: ’namdru,
+
+
+
+
+
+DZONGKHA: གནམ་གྲུ་ཐང་
+
+ROMANIZED: ’namdruthang,
+
+
+
+
+
+DZONGKHA: གནམ་བྱཱ་
+
+ROMANIZED: ’nambjâ,
+
+
+
+
+
+DZONGKHA: གནམ་མེད་ས་མེད་
+
+ROMANIZED: ’namesame,
+
+
+
+
+
+DZONGKHA: གནམ་ལོ་
+
+ROMANIZED: ’namlo,
+
+
+
+
+
+DZONGKHA: གནམ་སྲོ་ནི་
+
+ROMANIZED: ’nam
+
+
+
+
+
+DZONGKHA: གནས་བཅག་སྡོད་ནི་
+
+ROMANIZED: ’näcâ
+
+
+
+
+
+DZONGKHA: གནས་མཇལ་ནི་
+
+ROMANIZED: ’näjä-ni,
+
+
+
+
+
+DZONGKHA: གནས་ཚུལ་
+
+ROMANIZED: ’nätshü,
+
+
+
+
+
+DZONGKHA: གནས་སྐོར་
+
+ROMANIZED: ’näko,
+
+
+
+
+
+DZONGKHA: གཙོ་བོ་
+
+ROMANIZED: tsou,
+
+
+
+
+
+DZONGKHA: གཞན་
+
+ROMANIZED: zhen,
+
+
+
+
+
+DZONGKHA: གཞན་མི་
+
+ROMANIZED: zhenmi,
+
+
+
+
+
+DZONGKHA: གཞིས་
+
+ROMANIZED: zhî,
+
+
+
+
+
+DZONGKHA: གཞུ་
+
+ROMANIZED: zhu,
+
+
+
+
+
+DZONGKHA: གཞུང་
+
+ROMANIZED: zhung,
+
+
+
+
+
+DZONGKHA: གཞུང་གཡོག་
+
+ROMANIZED: zhung’yo,
+
+
+
+
+
+DZONGKHA: གཟའ་
+
+ROMANIZED: za,
+
+
+
+
+
+DZONGKHA: གཟིགས་ནི་
+
+ROMANIZED: zî-ni,
+
+
+
+
+
+DZONGKHA: གཟིམ་ཅུང་
+
+ROMANIZED: zimcu,
+
+
+
+
+
+DZONGKHA: གཟུགས་
+
+ROMANIZED: zû,
+
+
+
+
+
+DZONGKHA: གཡིབ་ནི་
+
+ROMANIZED: ’üp-ni,
+
+
+
+
+
+DZONGKHA: གཡུ་
+
+ROMANIZED: ’yu,
+
+
+
+
+
+DZONGKHA: གཡུས་
+
+ROMANIZED: ’ü,
+
+
+
+
+
+DZONGKHA: གཡོ་གཡོཝ་
+
+ROMANIZED: ’yo’you,
+
+
+
+
+
+DZONGKHA: གཡོག་ལཱ་
+
+ROMANIZED: ’yôla,
+
+
+
+
+
+DZONGKHA: གྱང་ཤུགས་རྐྱབ་ནི་
+
+ROMANIZED: j’angshu
+
+
+
+
+
+DZONGKHA: གྱལ་
+
+ROMANIZED: g’ä,
+
+
+
+
+
+DZONGKHA: གྱི་
+
+ROMANIZED: g’i,
+
+
+
+
+
+DZONGKHA: གྱི་ཅུང་
+
+ROMANIZED: g’icu,
+
+
+
+
+
+DZONGKHA: གྱོན་ནི་
+
+ROMANIZED: g’ön-ni,
+
+
+
+
+
+DZONGKHA: གྲགས་ནི་
+
+ROMANIZED: dr’â-ni,
+
+
+
+
+
+DZONGKHA: གྲགས་པ་
+
+ROMANIZED: dr’aba,
+
+
+
+
+
+DZONGKHA: གྲལ་
+
+ROMANIZED: dr’ä,
+
+
+
+
+
+DZONGKHA: གྲལ་ལས་
+
+ROMANIZED: dr’ä-le,
+
+
+
+
+
+DZONGKHA: གྲོགས་རམ་
+
+ROMANIZED: dr’ôram,
+
+
+
+
+
+DZONGKHA: གྲོལ་ནི་
+
+ROMANIZED: dr’ö-ni,
+
+
+
+
+
+DZONGKHA: གླ་
+
+ROMANIZED: ’la,
+
+
+
+
+
+DZONGKHA: གླང་
+
+ROMANIZED: ’lang,
+
+
+
+
+
+DZONGKHA: གླུ་འཐེན་ནི་
+
+ROMANIZED: ’lu
+
+
+
+
+
+DZONGKHA: གློག་བརྙན་
+
+ROMANIZED: ’lok’nyen,
+
+
+
+
+
+DZONGKHA: གསརཔ་
+
+ROMANIZED: sâp,
+
+
+
+
+
+DZONGKHA: གསིག་ནི་
+
+ROMANIZED: sî-ni,
+
+
+
+
+
+DZONGKHA: གསུང་ནི་
+
+ROMANIZED: sung-ni,
+
+
+
+
+
+DZONGKHA: གསོལ་རས་
+
+ROMANIZED: söra,
+
+
+
+
+
+DZONGKHA: གསོལ་རས་
+
+ROMANIZED: söra,
+
+
+
+
+
+DZONGKHA: གསོལཝ་བཏབ་ནི་
+
+ROMANIZED: söu
+
+
+
+
+
+DZONGKHA: གོ་སྐབས་
+
+ROMANIZED: g’okap,
+
+
+
+
+
+DZONGKHA: གོང་
+
+ROMANIZED: gong,
+
+
+
+
+
+DZONGKHA: གོང་
+
+ROMANIZED: gong,
+
+
+
+
+
+DZONGKHA: གོང་
+
+ROMANIZED: gong,
+
+
+
+
+
+DZONGKHA: གོང་མ་
+
+ROMANIZED: g’ôm,
+
+
+
+
+
+DZONGKHA: གོང་མ་
+
+ROMANIZED: g’ôm,
+
+
+
+
+
+DZONGKHA: ངནམ་
+
+ROMANIZED: ngem,
+
+
+
+
+
+DZONGKHA: ངོ་ཤེས་ནི་
+
+ROMANIZED: ngoshê-ni,
+
+
+
+
+
+DZONGKHA: ངོ་སྤྲོད་ལག་ཁྱེར་
+
+ROMANIZED: ngotrö-lakhe,
+
+
+
+
+
+DZONGKHA: ཅ་ལ་
+
+ROMANIZED: cala,
+
+
+
+
+
+DZONGKHA: ཆ་རོགས་
+
+ROMANIZED: châro,
+
+
+
+
+
+DZONGKHA: ཆག་ནི་
+
+ROMANIZED: châ-ni,
+
+
+
+
+
+DZONGKHA: ཆགས་ནི་
+
+ROMANIZED: châ-ni
+
+
+
+
+
+DZONGKHA: ཆང་ཟེ་
+
+ROMANIZED: changze,
+
+
+
+
+
+DZONGKHA: ཆད་ནི་
+
+ROMANIZED: chê-ni,
+
+
+
+
+
+DZONGKHA: ཆབ་གསང་
+
+ROMANIZED: chapsa,
+
+
+
+
+
+DZONGKHA: ཆར་ཆུ་
+
+ROMANIZED: châchu,
+
+
+
+
+
+DZONGKHA: ཆུ་ཚོད་འཁོར་ལོ་
+
+ROMANIZED: chutshökhôlo,
+
+
+
+
+
+DZONGKHA: ཆུ་འཁྱུ་ནི་
+
+ROMANIZED: chûchu-ni,
+
+
+
+
+
+DZONGKHA: ཆུ་རུད་
+
+ROMANIZED: churü,
+
+
+
+
+
+DZONGKHA: ཆུང་ཀུ་
+
+ROMANIZED: chungku,
+
+
+
+
+
+DZONGKHA: ཆུམ་
+
+ROMANIZED: chum,
+
+
+
+
+
+DZONGKHA: ཆེ་
+
+ROMANIZED: or
+
+
+
+
+
+DZONGKHA: ཆོ་གུ་
+
+ROMANIZED: chog’u,
+
+
+
+
+
+DZONGKHA: ཆོས་བཞིན་དུ་
+
+ROMANIZED: chözhind’u,
+
+
+
+
+
+DZONGKHA: ཆོས་བལྟ་ནི་
+
+ROMANIZED: chô
+
+
+
+
+
+DZONGKHA: ཆོས་བཤད་ནི་
+
+ROMANIZED: chôshê-ni,
+
+
+
+
+
+DZONGKHA: ཆོས་ཞུ་ནི་
+
+ROMANIZED: chôzh’u-ni,
+
+
+
+
+
+DZONGKHA: ཆོས་ལྷག་ནི་
+
+ROMANIZED: chôlhâ-ni,
+
+
+
+
+
+DZONGKHA: ཆོས་ལྷབ་ནི་
+
+ROMANIZED: chôlhap-ni,
+
+
+
+
+
+DZONGKHA: ཇོ་བདག་
+
+ROMANIZED: j’ôda,
+
+
+
+
+
+DZONGKHA: ཉ་ཁག་ཅུང་
+
+ROMANIZED: nyakhachu,
+
+
+
+
+
+DZONGKHA: ཉན་ཁུག་
+
+ROMANIZED: nyenkhu,
+
+
+
+
+
+DZONGKHA: ཉན་ཁུག་བཏབ་ནི་
+
+ROMANIZED: nyenkhu
+
+
+
+
+
+DZONGKHA: ཉམས་ནི་
+
+ROMANIZED: nyam-ni,
+
+
+
+
+
+DZONGKHA: ཉམས་ནི་
+
+ROMANIZED: nyam-ni,
+
+
+
+
+
+DZONGKHA: ཉལ་སར་
+
+ROMANIZED: nyäsa,
+
+
+
+
+
+DZONGKHA: ཉིམ་
+
+ROMANIZED: nyim,
+
+
+
+
+
+DZONGKHA: ཉོ་ཚོང་
+
+ROMANIZED: nyoptsho,
+
+
+
+
+
+DZONGKHA: ཏིག་རུབ་
+
+ROMANIZED: tiru,
+
+
+
+
+
+DZONGKHA: ཐག་ཆོད་ནི་
+
+ROMANIZED: thâchö-ni,
+
+
+
+
+
+DZONGKHA: ཐག་ཆོད་ནི་
+
+ROMANIZED: thâchö-ni,
+
+
+
+
+
+DZONGKHA: ཐག་བཅད་ནི་
+
+ROMANIZED: thâcê-ni,
+
+
+
+
+
+DZONGKHA: ཐབ་ཚང་
+
+ROMANIZED: thaptsha,
+
+
+
+
+
+DZONGKHA: ཐབ་ཚངཔ་
+
+ROMANIZED: thaptshap,
+
+
+
+
+
+DZONGKHA: ཐལ་ནི་
+
+ROMANIZED: thä-ni,
+
+
+
+
+
+DZONGKHA: ཐུན་བཏང་ནི་
+
+ROMANIZED: thün
+
+
+
+
+
+DZONGKHA: ཐེ་རི་འབའ་རི་
+
+ROMANIZED: theribâri,
+
+
+
+
+
+DZONGKHA: ཐོག་ལས་སྦེ་
+
+ROMANIZED: thôlebe,
+
+
+
+
+
+DZONGKHA: ཐོབ་ནི་
+
+ROMANIZED: thop-ni,
+
+
+
+
+
+DZONGKHA: ད་རེས་སྐབས་ཅིག་
+
+ROMANIZED: d’are-kapci,
+
+
+
+
+
+DZONGKHA: ད་ལྟོནི་
+
+ROMANIZED: d’aton,
+
+
+
+
+
+DZONGKHA: དཀྱི་རས་
+
+ROMANIZED: kira,
+
+
+
+
+
+DZONGKHA: དཀརཔོ་
+
+ROMANIZED: kâp,
+
+
+
+
+
+DZONGKHA: དཀརཔོ་
+
+ROMANIZED: kâp,
+
+
+
+
+
+DZONGKHA: དཀོན་མཆོག་
+
+ROMANIZED: köncho,
+
+
+
+
+
+DZONGKHA: དགའ་ཏོག་ཏོ་
+
+ROMANIZED: gatoto,
+
+
+
+
+
+DZONGKHA: དགའ་བ་
+
+ROMANIZED: gawa,
+
+
+
+
+
+DZONGKHA: དགའ་སྐྱིད་
+
+ROMANIZED: gaki,
+
+
+
+
+
+DZONGKHA: དགའ་སྟོན་
+
+ROMANIZED: gatön,
+
+
+
+
+
+DZONGKHA: དགོངས་ཡངས་
+
+ROMANIZED: gungya,
+
+
+
+
+
+DZONGKHA: དགོངསམ་ཞུ་ནི་
+
+ROMANIZED: gomzh’u-ni,
+
+
+
+
+
+DZONGKHA: དང་
+
+ROMANIZED: da,
+
+
+
+
+
+DZONGKHA: དང་པ་
+
+ROMANIZED: d’angba,
+
+
+
+
+
+DZONGKHA: དང་བཅསཔ་འབད་
+
+ROMANIZED: dacäpbe,
+
+
+
+
+
+DZONGKHA: དངུལ་
+
+ROMANIZED: ’ngü,
+
+
+
+
+
+DZONGKHA: དངུལ་ཁང་
+
+ROMANIZED: ’ngükha,
+
+
+
+
+
+DZONGKHA: དངུལ་ཁུག་
+
+ROMANIZED: ’nyiku,
+
+
+
+
+
+DZONGKHA: དངུལ་ཕོགས་
+
+ROMANIZED: ’ngüpho,
+
+
+
+
+
+DZONGKHA: དངོས་
+
+ROMANIZED: ’ngö,
+
+
+
+
+
+DZONGKHA: དཔའ་རྟགས་
+
+ROMANIZED: pata,
+
+
+
+
+
+DZONGKHA: དཔྱད་རིས་བཏང་ནི་
+
+ROMANIZED: pcäre
+
+
+
+
+
+DZONGKHA: དཔེ་ཆ་
+
+ROMANIZED: pecha,
+
+
+
+
+
+DZONGKHA: དཔེ་ཆ་
+
+ROMANIZED: pecha,
+
+
+
+
+
+DZONGKHA: དཔོན་
+
+ROMANIZED: pön,
+
+
+
+
+
+DZONGKHA: དབྱེ་བ་
+
+ROMANIZED: (དབེན་བ་)
+
+
+
+
+
+DZONGKHA: དབུར་ནི་
+
+ROMANIZED: ’û-ni,
+
+
+
+
+
+DZONGKHA: དབུལ་ཕོངས་
+
+ROMANIZED: ’üphong,
+
+
+
+
+
+DZONGKHA: དར་ཚིལ་
+
+ROMANIZED: d’âtshi,
+
+
+
+
+
+DZONGKHA: དྲག་
+
+ROMANIZED: dr’â,
+
+
+
+
+
+DZONGKHA: དྲག་ནི་
+
+ROMANIZED: dr’â-ni,
+
+
+
+
+
+DZONGKHA: དྲང་ནི་
+
+ROMANIZED: dr’ang-ni,
+
+
+
+
+
+DZONGKHA: དྲུང་ཆེ་
+
+ROMANIZED: dr’ungche,
+
+
+
+
+
+DZONGKHA: དྲུང་ཡིག་
+
+ROMANIZED: dr’u-nyi,
+
+
+
+
+
+DZONGKHA: དུམ་གྲ་གཅིག་
+
+ROMANIZED: dumdraci,
+
+
+
+
+
+DZONGKHA: དུས་
+
+ROMANIZED: d’ü,
+
+
+
+
+
+DZONGKHA: དུས་གཟའ་
+
+ROMANIZED: d’üza,
+
+
+
+
+
+DZONGKHA: དུས་ཅི་
+
+ROMANIZED: d’üci,
+
+
+
+
+
+DZONGKHA: དུས་ཚོད་
+
+ROMANIZED: d’ütshö,
+
+
+
+
+
+DZONGKHA: དུས་ལུ་
+
+ROMANIZED: d’ülu,
+
+
+
+
+
+DZONGKHA: དེ་ཁར་
+
+ROMANIZED: d’ikha,
+
+
+
+
+
+DZONGKHA: དེ་ཁར་
+
+ROMANIZED: d’ikha,
+
+
+
+
+
+DZONGKHA: དེ་ཅིག་
+
+ROMANIZED: or
+
+
+
+
+
+DZONGKHA: དེ་མེན་
+
+ROMANIZED: d’imen,
+
+
+
+
+
+DZONGKHA: དེ་མེན་རུང་
+
+ROMANIZED: d’imenru,
+
+
+
+
+
+DZONGKHA: དེ་འཕྲོད་ལས་
+
+ROMANIZED: d’ithröle,
+
+
+
+
+
+DZONGKHA: དེ་འབད་
+
+ROMANIZED: d’ebe,
+
+
+
+
+
+DZONGKHA: དེ་ལས་
+
+ROMANIZED: d’ele,
+
+
+
+
+
+DZONGKHA: དེ་སྒང་
+
+ROMANIZED: d’igang,
+
+
+
+
+
+DZONGKHA: དོ་རུང་ཡང་
+
+ROMANIZED: d’oroe,
+
+
+
+
+
+DZONGKHA: དོན་དག་
+
+ROMANIZED: or
+
+
+
+
+
+DZONGKHA: དོན་མེད་
+
+ROMANIZED: d’önme,
+
+
+
+
+
+DZONGKHA: དོན་ལུ་
+
+ROMANIZED: d’ön-lu,
+
+
+
+
+
+DZONGKHA: དོས་
+
+ROMANIZED: d’ô,
+
+
+
+
+
+DZONGKHA: དོས་
+
+ROMANIZED: d’ô,
+
+
+
+
+
+DZONGKHA: ནགས་ཚལ་
+
+ROMANIZED: nâtshe,
+
+
+
+
+
+DZONGKHA: ནགས་སྐྱེས་
+
+ROMANIZED: nâke,
+
+
+
+
+
+DZONGKHA: ནང་
+
+ROMANIZED: na,
+
+
+
+
+
+DZONGKHA: ནདཔ་
+
+ROMANIZED: nep,
+
+
+
+
+
+DZONGKHA: ནཱ་ལས་ཕར་
+
+ROMANIZED: nalephâ,
+
+
+
+
+
+DZONGKHA: ནོར་
+
+ROMANIZED: nô,
+
+
+
+
+
+DZONGKHA: ནོརབུ་
+
+ROMANIZED: nôp,
+
+
+
+
+
+DZONGKHA: པ་ནེ་
+
+ROMANIZED: pane,
+
+
+
+
+
+DZONGKHA: པ་ནེ་ཀྲོ་དུམ་
+
+ROMANIZED: pane-trôdum,
+
+
+
+
+
+DZONGKHA: ཕ་སྤད་
+
+ROMANIZED: phâphe,
+
+
+
+
+
+DZONGKHA: ཕག་ཤ་
+
+ROMANIZED: phasha,
+
+
+
+
+
+DZONGKHA: ཕགཔ་
+
+ROMANIZED: phap,
+
+
+
+
+
+DZONGKHA: ཕད་ཅུང་
+
+ROMANIZED: phecu,
+
+
+
+
+
+DZONGKHA: ཕམ་
+
+ROMANIZED: pham,
+
+
+
+
+
+DZONGKHA: ཕམ་
+
+ROMANIZED: pham,
+
+
+
+
+
+DZONGKHA: ཕམ་ནི་
+
+ROMANIZED: pham-ni,
+
+
+
+
+
+DZONGKHA: ཕམ་སྤུན་ཆ་
+
+ROMANIZED: pham-pincha,
+
+
+
+
+
+DZONGKHA: ཕྱག་མཇལ་
+
+ROMANIZED: chânje,
+
+
+
+
+
+DZONGKHA: ཕྱག་ཞུ་ནི་
+
+ROMANIZED: châzh’uni,
+
+
+
+
+
+DZONGKHA: ཕྱག་འཚལ་ནི་
+
+ROMANIZED: châtshä-ni,
+
+
+
+
+
+DZONGKHA: ཕྱག་ལཱ་
+
+ROMANIZED: châla,
+
+
+
+
+
+DZONGKHA: ཕྱད་ནི་
+
+ROMANIZED: pchê-ni,
+
+
+
+
+
+DZONGKHA: ཕྱི་ཁ་
+
+ROMANIZED: pchikha,
+
+
+
+
+
+DZONGKHA: ཕྱི་ཁར་
+
+ROMANIZED: pchikha,
+
+
+
+
+
+DZONGKHA: ཕྱི་ཁར་འབད་
+
+ROMANIZED: pchikhabe,
+
+
+
+
+
+DZONGKHA: ཕྱི་རྒྱལ་
+
+ROMANIZED: pchige,
+
+
+
+
+
+DZONGKHA: ཕྱི་རུ་
+
+ROMANIZED: pchiru,
+
+
+
+
+
+DZONGKHA: ཕྱི་རུ་ཁམས་
+
+ROMANIZED: pchiru-kham,
+
+
+
+
+
+DZONGKHA: ཕྱི་ལཱ་
+
+ROMANIZED: pchîla,
+
+
+
+
+
+DZONGKHA: ཕྱུགཔ་
+
+ROMANIZED: pchup,
+
+
+
+
+
+DZONGKHA: ཕྱེ་བྱིན་ནི་
+
+ROMANIZED: pchî
+
+
+
+
+
+DZONGKHA: ཕྱེད་ཀྲམ་
+
+ROMANIZED: pchetra,
+
+
+
+
+
+DZONGKHA: ཕར་
+
+ROMANIZED: phâ,
+
+
+
+
+
+DZONGKHA: ཕར་དང་ཚུར་
+
+ROMANIZED: phâ-da-tshû,
+
+
+
+
+
+DZONGKHA: ཕར་ཚུར་གཅིག་ཁར་
+
+ROMANIZED: phâtshu-cikha,
+
+
+
+
+
+DZONGKHA: ཕར་འབད་བཞག་ནི་
+
+ROMANIZED: phâbe
+
+
+
+
+
+DZONGKHA: ཕུན་སུམ་ཚོགས་པ་
+
+ROMANIZED: phünsumtshôba,
+
+
+
+
+
+DZONGKHA: ཕུལ་ནི་
+
+ROMANIZED: phü-ni,
+
+
+
+
+
+DZONGKHA: ཕོ་རྒནམ་
+
+ROMANIZED: phôgem,
+
+
+
+
+
+DZONGKHA: བཀབ་བགོ་
+
+ROMANIZED: kap-g’ô,
+
+
+
+
+
+DZONGKHA: བཀྲ་མ་ཤིསཔ་
+
+ROMANIZED: tramashêp,
+
+
+
+
+
+DZONGKHA: བགོ་ལ་
+
+ROMANIZED: g’ola,
+
+
+
+
+
+DZONGKHA: བང་མཛོད་
+
+ROMANIZED: b’angdzö,
+
+
+
+
+
+DZONGKHA: བཅག་ནི་
+
+ROMANIZED: câ-ni,
+
+
+
+
+
+DZONGKHA: བཅའ་སྒྲིགས་
+
+ROMANIZED: câdri,
+
+
+
+
+
+DZONGKHA: བཅོས་ཁ་
+
+ROMANIZED: côkha,
+
+
+
+
+
+DZONGKHA: བཏང་ནི་
+
+ROMANIZED: tang-ni,
+
+
+
+
+
+DZONGKHA: བཏང་ནི་
+
+ROMANIZED: tang-ni,
+
+
+
+
+
+DZONGKHA: བཏབ་ནི་
+
+ROMANIZED: tap-ni,
+
+
+
+
+
+DZONGKHA: བཏོག་ནི་
+
+ROMANIZED: tô-ni,
+
+
+
+
+
+DZONGKHA: བཏོན་ནི་
+
+ROMANIZED: tön-ni,
+
+
+
+
+
+DZONGKHA: བདག་འགན་
+
+ROMANIZED: dâge,
+
+
+
+
+
+DZONGKHA: བདའ་ནི་
+
+ROMANIZED: da-ni,
+
+
+
+
+
+DZONGKHA: བདའ་འགྱོ་ནི་
+
+ROMANIZED: dâjo-ni,
+
+
+
+
+
+DZONGKHA: བདེ་ནི་
+
+ROMANIZED: de-ni,
+
+
+
+
+
+DZONGKHA: བདེ་སྐྱིད་
+
+ROMANIZED: deki,
+
+
+
+
+
+DZONGKHA: བཙུག་ནི་
+
+ROMANIZED: tsû-ni,
+
+
+
+
+
+DZONGKHA: བཙུགས་ནི་
+
+ROMANIZED: tsû-ni,
+
+
+
+
+
+DZONGKHA: བཙུནམོ་
+
+ROMANIZED: tsüm,
+
+
+
+
+
+DZONGKHA: བཙོང་ནི་
+
+ROMANIZED: tsong-ni,
+
+
+
+
+
+DZONGKHA: བཞག་ནི་
+
+ROMANIZED: zhâ-ni,
+
+
+
+
+
+DZONGKHA: བཞག་སར་
+
+ROMANIZED: zhasa,
+
+
+
+
+
+DZONGKHA: བཞུགས་སར་
+
+ROMANIZED: zhûsa,
+
+
+
+
+
+DZONGKHA: བཞེས་ནི་
+
+ROMANIZED: zhê-ni,
+
+
+
+
+
+DZONGKHA: བཞེས་སྒོ་
+
+ROMANIZED: zhêgo,
+
+
+
+
+
+DZONGKHA: བཟངམ་
+
+ROMANIZED: zâm,
+
+
+
+
+
+DZONGKHA: བཟའ་ཚང་
+
+ROMANIZED: zatsha,
+
+
+
+
+
+DZONGKHA: བཟའ་རུ་
+
+ROMANIZED: zari,
+
+
+
+
+
+DZONGKHA: བཟུང་ནི་
+
+ROMANIZED: zung-ni,
+
+
+
+
+
+DZONGKHA: བཟོ་ནི་
+
+ROMANIZED: zo-ni,
+
+
+
+
+
+DZONGKHA: བྱ་ཆིས་ཆི་
+
+ROMANIZED: bjâchichi,
+
+
+
+
+
+DZONGKHA: བྱ་རོགས་
+
+ROMANIZED: bjâro,
+
+
+
+
+
+DZONGKHA: བྱ་ཤ་
+
+ROMANIZED: bj’asha,
+
+
+
+
+
+DZONGKHA: བྱ་ཤ་རྔོས་
+
+ROMANIZED: bj’asha’ngo,
+
+
+
+
+
+DZONGKHA: བྱཔོ་
+
+ROMANIZED: bj’ap,
+
+
+
+
+
+DZONGKHA: བྱམས་
+
+ROMANIZED: j’am,
+
+
+
+
+
+DZONGKHA: བྱི་ཙི་
+
+ROMANIZED: bj’itsi,
+
+
+
+
+
+DZONGKHA: བྱི་ལི་
+
+ROMANIZED: bj’ili,
+
+
+
+
+
+DZONGKHA: བྱི་ལི་ཕྱུ་གུ་
+
+ROMANIZED: bj’ili-pchuku,
+
+
+
+
+
+DZONGKHA: བྱིན་ནི་
+
+ROMANIZED: bj’in-ni,
+
+
+
+
+
+DZONGKHA: བྱུ་རུ་
+
+ROMANIZED: bj’uru,
+
+
+
+
+
+DZONGKHA: བྱོག་ནི་
+
+ROMANIZED: bj’ô-ni,
+
+
+
+
+
+DZONGKHA: བར་ན་
+
+ROMANIZED: b’âna,
+
+
+
+
+
+DZONGKHA: བརྒྱུད་དེ་
+
+ROMANIZED: jüdi,
+
+
+
+
+
+DZONGKHA: བརྒལ་
+
+ROMANIZED: gä,
+
+
+
+
+
+DZONGKHA: བརྗེད་ནི་
+
+ROMANIZED: jê-ni,
+
+
+
+
+
+DZONGKHA: བརྟག་ཞིབ་
+
+ROMANIZED: takzh’i,
+
+
+
+
+
+DZONGKHA: བརྟག་ཞིབ་དཔྱད་ནི་
+
+ROMANIZED: takzh’i
+
+
+
+
+
+DZONGKHA: བརྟེན་ཏེ་
+
+ROMANIZED: tendi,
+
+
+
+
+
+DZONGKHA: བརྟེན་ནི་
+
+ROMANIZED: ten-ni,
+
+
+
+
+
+DZONGKHA: བརྡར་ནི་
+
+ROMANIZED: dâ-ni,
+
+
+
+
+
+DZONGKHA: བརྡུང་ནི་
+
+ROMANIZED: dung-ni,
+
+
+
+
+
+DZONGKHA: བརྡུང་སག་ས་
+
+ROMANIZED: dungsasa,
+
+
+
+
+
+DZONGKHA: བརྩམ་ནི་
+
+ROMANIZED: tsam-ni,
+
+
+
+
+
+DZONGKHA: བརྩོན་ཤུགས་བཏོན་ནི་
+
+ROMANIZED: tsönshu
+
+
+
+
+
+DZONGKHA: བྲོ་འཆམ་ནི་
+
+ROMANIZED: dr’ocham-ni,
+
+
+
+
+
+DZONGKHA: བྲོའུ་
+
+ROMANIZED: dr’ou,
+
+
+
+
+
+DZONGKHA: བལྟ་ནི་
+
+ROMANIZED: ta-ni,
+
+
+
+
+
+DZONGKHA: བླམ་བན་ད་
+
+ROMANIZED: ’lambenda,
+
+
+
+
+
+DZONGKHA: བླུགས་ནི་
+
+ROMANIZED: ’lû-ni,
+
+
+
+
+
+DZONGKHA: བློ་ཕམ་ནི་
+
+ROMANIZED: ’lopham-ni,
+
+
+
+
+
+DZONGKHA: བློན་པོ་
+
+ROMANIZED: ’lönbo,
+
+
+
+
+
+DZONGKHA: བསྐམ་ནི་
+
+ROMANIZED: kam-ni,
+
+
+
+
+
+DZONGKHA: བསྐྱངས་མི་
+
+ROMANIZED: cangmi,
+
+
+
+
+
+DZONGKHA: བསྐྱི་མི་
+
+ROMANIZED: kimi,
+
+
+
+
+
+DZONGKHA: བསྒྲུབ་ནི་
+
+ROMANIZED: drup-ni,
+
+
+
+
+
+DZONGKHA: བསྟུན་གྲོས་
+
+ROMANIZED: tündrö,
+
+
+
+
+
+DZONGKHA: བསད་ནི་
+
+ROMANIZED: sê-ni,
+
+
+
+
+
+DZONGKHA: བསམ་པ་
+
+ROMANIZED: samba,
+
+
+
+
+
+DZONGKHA: བསལ་ནི་
+
+ROMANIZED: sä-ni,
+
+
+
+
+
+DZONGKHA: མ་ཏོགས་
+
+ROMANIZED: mato,
+
+
+
+
+
+DZONGKHA: མ་དངུལ་
+
+ROMANIZED: ma-ngü,
+
+
+
+
+
+DZONGKHA: མ་ཚད་
+
+ROMANIZED: matshe,
+
+
+
+
+
+DZONGKHA: མ་འགྲིགས་ནི་
+
+ROMANIZED: madrî-ni,
+
+
+
+
+
+DZONGKHA: མ་འདྲཝ་
+
+ROMANIZED: madrau,
+
+
+
+
+
+DZONGKHA: མ་འདྲཝ་
+
+ROMANIZED: madrau,
+
+
+
+
+
+DZONGKHA: མ་འདྲཝ་འབད་
+
+ROMANIZED: madraube,
+
+
+
+
+
+DZONGKHA: མ་སྤད་
+
+ROMANIZED: mâphe,
+
+
+
+
+
+DZONGKHA: མགྱོགས་པར་
+
+ROMANIZED: jôba,
+
+
+
+
+
+DZONGKHA: མགུ་ན་ན་
+
+ROMANIZED: gunana,
+
+
+
+
+
+DZONGKHA: མང་རབས་
+
+ROMANIZED: mangrap,
+
+
+
+
+
+DZONGKHA: མཆོག་
+
+ROMANIZED: chô,
+
+
+
+
+
+DZONGKHA: མཆོད་ནི་
+
+ROMANIZED: chö-ni,
+
+
+
+
+
+DZONGKHA: མཇལ་ནི་
+
+ROMANIZED: jä-ni,
+
+
+
+
+
+DZONGKHA: མཇལ་ནི་
+
+ROMANIZED: jä-ni,
+
+
+
+
+
+DZONGKHA: མཇུག་བསྡུ་ནི་
+
+ROMANIZED: jûdu-ni,
+
+
+
+
+
+DZONGKHA: མཐའ་མཇུག་ཁར་
+
+ROMANIZED: thanjukha,
+
+
+
+
+
+DZONGKHA: མཐའ་མར་
+
+ROMANIZED: thama,
+
+
+
+
+
+DZONGKHA: མཐོ་གང་
+
+ROMANIZED: thog’ang,
+
+
+
+
+
+DZONGKHA: མཐོ་དྲག་
+
+ROMANIZED: thodr’a,
+
+
+
+
+
+DZONGKHA: མཐོ་དྲག་
+
+ROMANIZED: thodr’a,
+
+
+
+
+
+DZONGKHA: མཐོ་ནི་
+
+ROMANIZED: tho-ni,
+
+
+
+
+
+DZONGKHA: མཐོང་ནི་
+
+ROMANIZED: thong-ni,
+
+
+
+
+
+DZONGKHA: མདའ་ཕམ་ནི་
+
+ROMANIZED: da
+
+
+
+
+
+DZONGKHA: མནོ་ནི་
+
+ROMANIZED: ’no-ni,
+
+
+
+
+
+DZONGKHA: མནོ་བསམ་
+
+ROMANIZED: ’nosa,
+
+
+
+
+
+DZONGKHA: མཚན་ཉིད་
+
+ROMANIZED: tshenyi,
+
+
+
+
+
+DZONGKHA: མཚན་སྙན་པ་
+
+ROMANIZED: tshen’nyenba,
+
+
+
+
+
+DZONGKHA: མཛད་ནི་
+
+ROMANIZED: dzê-ni,
+
+
+
+
+
+DZONGKHA: མཛུབ་མོ་
+
+ROMANIZED: dzumu,
+
+
+
+
+
+DZONGKHA: མར་ཁུ་
+
+ROMANIZED: mâkhu,
+
+
+
+
+
+DZONGKHA: མི་དབང་
+
+ROMANIZED: Mi’wang,
+
+
+
+
+
+DZONGKHA: མི་ཚད་
+
+ROMANIZED: mitshê,
+
+
+
+
+
+DZONGKHA: མིག་དམར་
+
+ROMANIZED: ’Mîma,
+
+
+
+
+
+DZONGKHA: མིང་
+
+ROMANIZED: meng,
+
+
+
+
+
+DZONGKHA: མིང་གཏམ་
+
+ROMANIZED: mingtam,
+
+
+
+
+
+DZONGKHA: མེད་པར་
+
+ROMANIZED: meba,
+
+
+
+
+
+DZONGKHA: མེདཔ་བཏང་ནི་
+
+ROMANIZED: meptang-ni,
+
+
+
+
+
+DZONGKHA: ཚ་ཆུ་
+
+ROMANIZED: tshachu,
+
+
+
+
+
+DZONGKHA: ཚ་ནི་
+
+ROMANIZED: tsha-ni,
+
+
+
+
+
+DZONGKHA: ཚངམ་འབད་
+
+ROMANIZED: tshâmbe,
+
+
+
+
+
+DZONGKHA: ཚད་
+
+ROMANIZED: tshê
+
+
+
+
+
+DZONGKHA: ཚར་ནི་
+
+ROMANIZED: tshâ-ni,
+
+
+
+
+
+DZONGKHA: ཚལ་མ་
+
+ROMANIZED: tshäma,
+
+
+
+
+
+DZONGKHA: ཚུད་ནི་
+
+ROMANIZED: tshü-ni,
+
+
+
+
+
+DZONGKHA: ཚུན་ཚོད་
+
+ROMANIZED: tshöntshö,
+
+
+
+
+
+DZONGKHA: ཚུར་
+
+ROMANIZED: tshû,
+
+
+
+
+
+DZONGKHA: ཚེས་
+
+ROMANIZED: tshê,
+
+
+
+
+
+DZONGKHA: ཚོ་སྡོར་
+
+ROMANIZED: tshôto,
+
+
+
+
+
+DZONGKHA: ཚོང་དཔོན་
+
+ROMANIZED: tshongpö,
+
+
+
+
+
+DZONGKHA: ཚོང་རྩིས་
+
+ROMANIZED: tshongtsi,
+
+
+
+
+
+DZONGKHA: ཚོད་བསྲེ་
+
+ROMANIZED: tshöse,
+
+
+
+
+
+DZONGKHA: ཚོད་བསྲེ་ཁྲོམ་ཁ་
+
+ROMANIZED: tshöse-thromkha,
+
+
+
+
+
+DZONGKHA: ཚོདམ་
+
+ROMANIZED: tshöm,
+
+
+
+
+
+DZONGKHA: ཞྭམོ་
+
+ROMANIZED: zh’am,
+
+
+
+
+
+DZONGKHA: ཞལ་ཐག་
+
+ROMANIZED: zh’ätha,
+
+
+
+
+
+DZONGKHA: ཞལ་ཐག་དཔྱང་ནི་
+
+ROMANIZED: zh’ätha
+
+
+
+
+
+DZONGKHA: ཞལ་ཐག་རྐྱལ་ཅུ་
+
+ROMANIZED: zh’ätha-käcu,
+
+
+
+
+
+DZONGKHA: ཞལ་འཛོམས་
+
+ROMANIZED: zh’ändzom,
+
+
+
+
+
+DZONGKHA: ཞིང་གཤེགས་
+
+ROMANIZED: zh’ingshe,
+
+
+
+
+
+DZONGKHA: ཞིནམ་ལས་
+
+ROMANIZED: zh’ile,
+
+
+
+
+
+DZONGKHA: ཞིབ་དཔྱད་རྐྱབ་ནི་
+
+ROMANIZED: zh’ipce
+
+
+
+
+
+DZONGKHA: ཞིམ་ཏོག་ཏོ་
+
+ROMANIZED: zh’imtoto,
+
+
+
+
+
+DZONGKHA: ཞིམ་ནི་
+
+ROMANIZED: zh’im-ni,
+
+
+
+
+
+DZONGKHA: ཞུ་ནི་
+
+ROMANIZED: zh’u-ni,
+
+
+
+
+
+DZONGKHA: ཟ་ནི་
+
+ROMANIZED: z’ani,
+
+
+
+
+
+DZONGKHA: ཟ་བའི་ལྟོ་
+
+ROMANIZED: z’awi-to
+
+
+
+
+
+DZONGKHA: ཟངས་གཞོང་
+
+ROMANIZED: z’angzho,
+
+
+
+
+
+DZONGKHA: ཟཔ་
+
+ROMANIZED: zap,
+
+
+
+
+
+DZONGKHA: ཟླ་རིམ་
+
+ROMANIZED: darim,
+
+
+
+
+
+DZONGKHA: ཟུར་ཁར་
+
+ROMANIZED: z’ukha,
+
+
+
+
+
+DZONGKHA: འཁྱིད་ནི་
+
+ROMANIZED: khî-ni,
+
+
+
+
+
+DZONGKHA: འཁྱུ་ནི་
+
+ROMANIZED: chu-ni,
+
+
+
+
+
+DZONGKHA: འགྱོ་མི་
+
+ROMANIZED: jo-mi,
+
+
+
+
+
+DZONGKHA: འགྲུལ་འཁོར་
+
+ROMANIZED: drükhor,
+
+
+
+
+
+DZONGKHA: འགྲེམ་ཁང་
+
+ROMANIZED: dremkha,
+
+
+
+
+
+DZONGKHA: འགུར་
+
+ROMANIZED: gu,
+
+
+
+
+
+DZONGKHA: འགུར་
+
+ROMANIZED: gu,
+
+
+
+
+
+DZONGKHA: འགོ་
+
+ROMANIZED: gu,
+
+
+
+
+
+DZONGKHA: འགོ་དཔོན་
+
+ROMANIZED: gupön,
+
+
+
+
+
+DZONGKHA: འགོ་བཙུགས་ནི་
+
+ROMANIZED: gutsû-ni,
+
+
+
+
+
+DZONGKHA: འགོར་ནི་
+
+ROMANIZED: gô-ni,
+
+
+
+
+
+DZONGKHA: འཆར་གཞི་
+
+ROMANIZED: châzhi,
+
+
+
+
+
+DZONGKHA: འཇིགས་སྐྲག་
+
+ROMANIZED: jikdra
+
+
+
+
+
+DZONGKHA: འཐུ་ནི་
+
+ROMANIZED: thu-ni,
+
+
+
+
+
+DZONGKHA: འཐུད་ཤོར་ནི་
+
+ROMANIZED: thüshô-ni,
+
+
+
+
+
+DZONGKHA: འཐོན་ནི་
+
+ROMANIZED: thön-ni,
+
+
+
+
+
+DZONGKHA: འདམ་
+
+ROMANIZED: dam,
+
+
+
+
+
+DZONGKHA: འདམ་རུ་
+
+ROMANIZED: damru,
+
+
+
+
+
+DZONGKHA: འདྲ་བཤུས་
+
+ROMANIZED: drashü,
+
+
+
+
+
+DZONGKHA: འདྲ་བཤུས་འཕྲུལ་
+
+ROMANIZED: drashüthrü,
+
+
+
+
+
+DZONGKHA: འདྲན་འདྲ་
+
+ROMANIZED: drandra,
+
+
+
+
+
+DZONGKHA: འདྲོགས་ནི་
+
+ROMANIZED: drô-ni,
+
+
+
+
+
+DZONGKHA: འདུ་ལེན་པ་
+
+ROMANIZED: dulenba,
+
+
+
+
+
+DZONGKHA: འཕྱག་ནི་
+
+ROMANIZED: pchâ-ni,
+
+
+
+
+
+DZONGKHA: འཕྱག་བདའ་ནི་
+
+ROMANIZED: pchada-ni,
+
+
+
+
+
+DZONGKHA: འཕྲང་
+
+ROMANIZED: thrang,
+
+
+
+
+
+DZONGKHA: འཕྲང་ཏང་ཏ་
+
+ROMANIZED: thrangtangta,
+
+
+
+
+
+DZONGKHA: འཕྲུལ་
+
+ROMANIZED: thrü,
+
+
+
+
+
+DZONGKHA: འཕྲུལ་ཁང་
+
+ROMANIZED: thrükha,
+
+
+
+
+
+DZONGKHA: འབག་ནི་
+
+ROMANIZED: bâ-ni,
+
+
+
+
+
+DZONGKHA: འབག་མི་
+
+ROMANIZED: bâ-mi,
+
+
+
+
+
+DZONGKHA: འབབ་ནི་
+
+ROMANIZED: b’ap-ni,
+
+
+
+
+
+DZONGKHA: འབྱོར་རྟགས་
+
+ROMANIZED: jôta,
+
+
+
+
+
+DZONGKHA: འབྲུག་སྒྲ་
+
+ROMANIZED: drûdra,
+
+
+
+
+
+DZONGKHA: འབོ་ནི་
+
+ROMANIZED: b’ô-ni,
+
+
+
+
+
+DZONGKHA: འཚོལ་ནི་
+
+ROMANIZED: tshö-ni,
+
+
+
+
+
+DZONGKHA: འཛམ་གླིང་
+
+ROMANIZED: dzamling,
+
+
+
+
+
+DZONGKHA: འཛིང་ནི་
+
+ROMANIZED: dzing-ni,
+
+
+
+
+
+DZONGKHA: འཛེག་ནི་
+
+ROMANIZED: dzê-ni,
+
+
+
+
+
+DZONGKHA: འཛོམ་ནི་
+
+ROMANIZED: dzom-ni,
+
+
+
+
+
+DZONGKHA: འཛོལ་བ་
+
+ROMANIZED: dzöwa,
+
+
+
+
+
+DZONGKHA: འུར་སྒྲ་
+
+ROMANIZED: ûdra,
+
+
+
+
+
+DZONGKHA: འོག་ཐོག་
+
+ROMANIZED: otho,
+
+
+
+
+
+DZONGKHA: ཡང་
+
+ROMANIZED: -e,
+
+
+
+
+
+DZONGKHA: ཡང་ཅིན་
+
+ROMANIZED: yangcin,
+
+
+
+
+
+DZONGKHA: ཡངན་
+
+ROMANIZED: yân,
+
+
+
+
+
+DZONGKHA: ཡར་
+
+ROMANIZED: yâ,
+
+
+
+
+
+DZONGKHA: ཡིག་ཚང་
+
+ROMANIZED: yitsha,
+
+
+
+
+
+DZONGKHA: ར་
+
+ROMANIZED: ra,
+
+
+
+
+
+DZONGKHA: རྐངཔ་
+
+ROMANIZED: kâm,
+
+
+
+
+
+DZONGKHA: རྐྱ་སེང་སེང་
+
+ROMANIZED: casengse,
+
+
+
+
+
+DZONGKHA: རྐྱངམ་གཅིག་
+
+ROMANIZED: câmci,
+
+
+
+
+
+DZONGKHA: རྐྱབ་
+
+ROMANIZED: cap].
+
+
+
+
+
+DZONGKHA: རྐྱལ་ཅུ་
+
+ROMANIZED: käcu,
+
+
+
+
+
+DZONGKHA: རྒྱ་གར་
+
+ROMANIZED: jaga,
+
+
+
+
+
+DZONGKHA: རྒྱ་གར་
+
+ROMANIZED: Jaga,
+
+
+
+
+
+DZONGKHA: རྒྱ་ནག་
+
+ROMANIZED: Jana,
+
+
+
+
+
+DZONGKHA: རྒྱ་མཚོ་
+
+ROMANIZED: jamtsho,
+
+
+
+
+
+DZONGKHA: རྒྱ་མི་
+
+ROMANIZED: Jami,
+
+
+
+
+
+DZONGKHA: རྒྱང་བསྒྲགས་
+
+ROMANIZED: jangdra,
+
+
+
+
+
+DZONGKHA: རྒྱབ་ཁ་
+
+ROMANIZED: japkha,
+
+
+
+
+
+DZONGKHA: རྒྱལ་ཁབ་
+
+ROMANIZED: gäkhap,
+
+
+
+
+
+DZONGKHA: རྒྱལ་སྲས་
+
+ROMANIZED: gäsä,
+
+
+
+
+
+DZONGKHA: རྒྱལ་སྲིད་
+
+ROMANIZED: gäsi,
+
+
+
+
+
+DZONGKHA: རྒྱལ་སྲིད་
+
+ROMANIZED: gäsi,
+
+
+
+
+
+DZONGKHA: རྒྱུ་
+
+ROMANIZED: ju,
+
+
+
+
+
+DZONGKHA: རྒྱུ་ཅ་ལ་
+
+ROMANIZED: jucala,
+
+
+
+
+
+DZONGKHA: རྒྱུ་ནོར་
+
+ROMANIZED: juno,
+
+
+
+
+
+DZONGKHA: རང་
+
+ROMANIZED: ra,
+
+
+
+
+
+DZONGKHA: རང་རང་
+
+ROMANIZED: rangra,
+
+
+
+
+
+DZONGKHA: རྟ་
+
+ROMANIZED: ta,
+
+
+
+
+
+DZONGKHA: རྟ་ནོར་
+
+ROMANIZED: tano,
+
+
+
+
+
+DZONGKHA: རྟ་ནོར་སེམས་ཅན་
+
+ROMANIZED: tano-semce,
+
+
+
+
+
+DZONGKHA: རྟག་བུ་རང་
+
+ROMANIZED: tabura,
+
+
+
+
+
+DZONGKHA: རྟས་ཐག་
+
+ROMANIZED: tätha,
+
+
+
+
+
+DZONGKHA: རྡིག་
+
+ROMANIZED: dî,
+
+
+
+
+
+DZONGKHA: རྡོ་ཕུག་
+
+ROMANIZED: dophu,
+
+
+
+
+
+DZONGKHA: རྡོ་བཙོ་
+
+ROMANIZED: dotso,
+
+
+
+
+
+DZONGKHA: རྡོ་མ་
+
+ROMANIZED: doma,
+
+
+
+
+
+DZONGKHA: རྡོ་སྦོམ་
+
+ROMANIZED: do
+
+
+
+
+
+DZONGKHA: རྣམ་རྟོག་
+
+ROMANIZED: ’namto,
+
+
+
+
+
+DZONGKHA: རྦབ་འགྲིལ་ནི་
+
+ROMANIZED: baprî-ni,
+
+
+
+
+
+DZONGKHA: རྩ་ལས་
+
+ROMANIZED: tsale,
+
+
+
+
+
+DZONGKHA: རྩ་ལས་རང་
+
+ROMANIZED: tsalera,
+
+
+
+
+
+DZONGKHA: རྩིགཔ་
+
+ROMANIZED: tsip,
+
+
+
+
+
+DZONGKHA: རྩིས་
+
+ROMANIZED: tsî,
+
+
+
+
+
+DZONGKHA: རྩུ་ནེ་
+
+ROMANIZED: tsine,
+
+
+
+
+
+DZONGKHA: རྩེདམ་རྩེད་ནི་
+
+ROMANIZED: tsêm
+
+
+
+
+
+DZONGKHA: རྫུན་ནི་
+
+ROMANIZED: dzün-ni,
+
+
+
+
+
+DZONGKHA: རྫོགས་ནི་
+
+ROMANIZED: dzô-ni,
+
+
+
+
+
+DZONGKHA: རའི་
+
+ROMANIZED: ri,
+
+
+
+
+
+DZONGKHA: རི་
+
+ROMANIZED: ri,
+
+
+
+
+
+DZONGKHA: རི་
+
+ROMANIZED: ri,
+
+
+
+
+
+DZONGKHA: རི་ཁར་
+
+ROMANIZED: riga,
+
+
+
+
+
+DZONGKHA: རི་དྭགས་
+
+ROMANIZED: rida,
+
+
+
+
+
+DZONGKHA: རིང་
+
+ROMANIZED: ring,
+
+
+
+
+
+DZONGKHA: རིངམོ་
+
+ROMANIZED: rim,
+
+
+
+
+
+DZONGKHA: རིན་
+
+ROMANIZED: rin,
+
+
+
+
+
+DZONGKHA: རིན་
+
+ROMANIZED: rin,
+
+
+
+
+
+DZONGKHA: རིན་གོང་
+
+ROMANIZED: ringgong,
+
+
+
+
+
+DZONGKHA: རུབ་སྟེ་
+
+ROMANIZED: rupdi,
+
+
+
+
+
+DZONGKHA: རེ་
+
+ROMANIZED: re,
+
+
+
+
+
+DZONGKHA: རེ་རེ་
+
+ROMANIZED: rere,
+
+
+
+
+
+DZONGKHA: ལག་པར་
+
+ROMANIZED: laba
+
+
+
+
+
+DZONGKHA: ལག་པར་
+
+ROMANIZED: laba,
+
+
+
+
+
+DZONGKHA: ལང་ནི་
+
+ROMANIZED: lang-ni,
+
+
+
+
+
+DZONGKHA: ལངམ་འབད་
+
+ROMANIZED: lâmbe,
+
+
+
+
+
+DZONGKHA: ལྟདམོ་
+
+ROMANIZED: têm,
+
+
+
+
+
+DZONGKHA: ལྟོ་རས་
+
+ROMANIZED: tôra,
+
+
+
+
+
+DZONGKHA: ལྟོ་རས་
+
+ROMANIZED: tôra,
+
+
+
+
+
+DZONGKHA: ལྟོཝ་བཀྱེས་ནི་
+
+ROMANIZED: tou
+
+
+
+
+
+DZONGKHA: ལྡེ་མིག་བུ་
+
+ROMANIZED: dimib’u,
+
+
+
+
+
+DZONGKHA: ལྡེ་མིག་རྐྱབ་ནི་
+
+ROMANIZED: dimi
+
+
+
+
+
+DZONGKHA: ལམ་འགྱོ་ནི་
+
+ROMANIZED: lamjo-ni,
+
+
+
+
+
+DZONGKHA: ལམ་ཡིག་
+
+ROMANIZED: lamyi,
+
+
+
+
+
+DZONGKHA: ལས་ཁུངས་
+
+ROMANIZED: läkhung,
+
+
+
+
+
+DZONGKHA: ལས་བསག་ནི་
+
+ROMANIZED: läsâ-ni,
+
+
+
+
+
+DZONGKHA: ལས་རིམ་
+
+ROMANIZED: lärim,
+
+
+
+
+
+DZONGKHA: ལྷ་པ་
+
+ROMANIZED: lhapa,
+
+
+
+
+
+DZONGKHA: ལྷགཔ་
+
+ROMANIZED: Lhap,
+
+
+
+
+
+DZONGKHA: ལྷན་ཁག་
+
+ROMANIZED: lhenkha,
+
+
+
+
+
+DZONGKHA: ལྷམ་
+
+ROMANIZED: lham,
+
+
+
+
+
+DZONGKHA: ལྷོད་ནི་
+
+ROMANIZED: hö-ni,
+
+
+
+
+
+DZONGKHA: ལཱ་ཁག་
+
+ROMANIZED: lâkha,
+
+
+
+
+
+DZONGKHA: ལཱ་འགན་
+
+ROMANIZED: lâgen,
+
+
+
+
+
+DZONGKHA: ལཱ་སྐོར་
+
+ROMANIZED: lâko,
+
+
+
+
+
+DZONGKHA: ལཱ་སར་
+
+ROMANIZED: lâsa,
+
+
+
+
+
+DZONGKHA: ལུངམ་
+
+ROMANIZED: lum,
+
+
+
+
+
+DZONGKHA: ལུས་ནི་
+
+ROMANIZED: lü-ni
+
+
+
+
+
+DZONGKHA: ལུས་ནི་
+
+ROMANIZED: lü-ni,
+
+
+
+
+
+DZONGKHA: ལེ་ཤ་
+
+ROMANIZED: läsha,
+
+
+
+
+
+DZONGKHA: ལེགས་ནི་
+
+ROMANIZED: lä-ni,
+
+
+
+
+
+DZONGKHA: ལོ་ཐོག་
+
+ROMANIZED: lotho,
+
+
+
+
+
+DZONGKHA: ལོ་རྒྱུས་
+
+ROMANIZED: lôju,
+
+
+
+
+
+DZONGKHA: ལོག་
+
+ROMANIZED: lo,
+
+
+
+
+
+DZONGKHA: ལོག་ནི་
+
+ROMANIZED: lôni,
+
+
+
+
+
+DZONGKHA: ལོངས་སྤྱོད་ནི་
+
+ROMANIZED: longcö-ni,
+
+
+
+
+
+DZONGKHA: ལོན་
+
+ROMANIZED: b’ölö
+
+
+
+
+
+DZONGKHA: ལོམ་
+
+ROMANIZED: lôm,
+
+
+
+
+
+DZONGKHA: ཤ་བདའ་ནི་
+
+ROMANIZED: shada-ni,
+
+
+
+
+
+DZONGKHA: ཤར་ནི་
+
+ROMANIZED: shâ-ni,
+
+
+
+
+
+DZONGKHA: ཤི་ནི་
+
+ROMANIZED: shi-ni,
+
+
+
+
+
+DZONGKHA: ཤུགས་འབད་
+
+ROMANIZED: shûbe,
+
+
+
+
+
+DZONGKHA: ཤུལ་ལས་
+
+ROMANIZED: shüle,
+
+
+
+
+
+DZONGKHA: ཤོབ་རྐྱབ་ནི་
+
+ROMANIZED: shop
+
+
+
+
+
+DZONGKHA: ཤོར་ནི་
+
+ROMANIZED: shô-ni,
+
+
+
+
+
+DZONGKHA: ས་གཞིས་
+
+ROMANIZED: sazhi,
+
+
+
+
+
+DZONGKHA: ས་ཐ་
+
+ROMANIZED: satha,
+
+
+
+
+
+DZONGKHA: ས་ཞིང་
+
+ROMANIZED: sazh’i,
+
+
+
+
+
+DZONGKHA: ས་སྟོང་
+
+ROMANIZED: sâto,
+
+
+
+
+
+DZONGKHA: སྐད་
+
+ROMANIZED: kê,
+
+
+
+
+
+DZONGKHA: སྐད་སྒྱུར་
+
+ROMANIZED: kêju,
+
+
+
+
+
+DZONGKHA: སྐམ་
+
+ROMANIZED: kam,
+
+
+
+
+
+DZONGKHA: སྐྱ་སྒོགཔ་
+
+ROMANIZED: cagop,
+
+
+
+
+
+DZONGKHA: སྐྱིད་ཏོང་ཏོ་
+
+ROMANIZED: kîtongto,
+
+
+
+
+
+DZONGKHA: སྐྱིད་པ་
+
+ROMANIZED: kiba
+
+
+
+
+
+DZONGKHA: སྐྱིད་སྡུག་
+
+ROMANIZED: kîdu,
+
+
+
+
+
+DZONGKHA: སྐྱེས་ནི་
+
+ROMANIZED: ke-ni,
+
+
+
+
+
+DZONGKHA: སྐྱེས་ལྷ་
+
+ROMANIZED: kêlha,
+
+
+
+
+
+DZONGKHA: སྐྱོ་ནི་
+
+ROMANIZED: co-ni,
+
+
+
+
+
+DZONGKHA: སྐྱོ་སྐྱོཝ་
+
+ROMANIZED: cocou,
+
+
+
+
+
+DZONGKHA: སྐརམ་
+
+ROMANIZED: kâm,
+
+
+
+
+
+DZONGKHA: སྐུ་གཟུགས་བཟངམ་kuzuzâmbe,
+
+ROMANIZED: adv.,
+
+
+
+
+
+DZONGKHA: སྐུ་མདུན་
+
+ROMANIZED: kundü,
+
+
+
+
+
+DZONGKHA: སྐུ་རྟེན་
+
+ROMANIZED: kuten,
+
+
+
+
+
+DZONGKHA: སྒང་
+
+ROMANIZED: gang,
+
+
+
+
+
+DZONGKHA: སྒྱིད་སྡུག་
+
+ROMANIZED: gîdu,
+
+
+
+
+
+DZONGKHA: སྒྲིག་ནི་
+
+ROMANIZED: drî-ni,
+
+
+
+
+
+DZONGKHA: སྔུ་ནི་
+
+ROMANIZED: ’ngu-ni,
+
+
+
+
+
+DZONGKHA: སྔུ་རལ་འཐབ་ནི་
+
+ROMANIZED: ’ngurä
+
+
+
+
+
+DZONGKHA: སྟབས་བདེ་ནི་
+
+ROMANIZED: tapde-ni,
+
+
+
+
+
+DZONGKHA: སྟབས་སྒྲིག་ནི་
+
+ROMANIZED: tapdrî-ni,
+
+
+
+
+
+DZONGKHA: སྟེ་
+
+ROMANIZED: te,
+
+
+
+
+
+DZONGKHA: སྟོང་བཏབ་ནི་
+
+ROMANIZED: tong
+
+
+
+
+
+DZONGKHA: སྟོངམ་
+
+ROMANIZED: tôm,
+
+
+
+
+
+DZONGKHA: སྟོངམ་
+
+ROMANIZED: tôm,
+
+
+
+
+
+DZONGKHA: སྟོན་ནི་
+
+ROMANIZED: tön-ni,
+
+
+
+
+
+DZONGKHA: སྟོན་བྱིན་ནི་
+
+ROMANIZED: tönbj’in-ni,
+
+
+
+
+
+DZONGKHA: སྡུག་བསྔལ་
+
+ROMANIZED: du-nge,
+
+
+
+
+
+DZONGKHA: སྡོད་ནི་
+
+ROMANIZED: dö-ni,
+
+
+
+
+
+DZONGKHA: སྡོད་སར་
+
+ROMANIZED: dösa,
+
+
+
+
+
+DZONGKHA: སྣུམ་འཁོར་
+
+ROMANIZED: ’numkho,
+
+
+
+
+
+DZONGKHA: སྤང་སྐྱེས་
+
+ROMANIZED: pangke,
+
+
+
+
+
+DZONGKHA: སྤྱ་དཀར་
+
+ROMANIZED: pcaka,
+
+
+
+
+
+DZONGKHA: སྤྱང་ཀ་
+
+ROMANIZED: pcangka,
+
+
+
+
+
+DZONGKHA: སྤྱང་འཁྱམས་ནི་
+
+ROMANIZED: pcangchamni,
+
+
+
+
+
+DZONGKHA: སྤྲོད་ནི་
+
+ROMANIZED: trö-ni,
+
+
+
+
+
+DZONGKHA: སྤུ་
+
+ROMANIZED: pu,
+
+
+
+
+
+DZONGKHA: སྤུན་ཆ་
+
+ROMANIZED: pincha,
+
+
+
+
+
+DZONGKHA: སྤོ་ནི་
+
+ROMANIZED: po-ni,
+
+
+
+
+
+DZONGKHA: སྦ་ནི་
+
+ROMANIZED: bâ-ni,
+
+
+
+
+
+DZONGKHA: སྦང་ནི་
+
+ROMANIZED: bang-ni,
+
+
+
+
+
+DZONGKHA: སྦྱིན་པ་
+
+ROMANIZED: jimba,
+
+
+
+
+
+DZONGKHA: སྦལ་ཤ་
+
+ROMANIZED: bäsha,
+
+
+
+
+
+DZONGKHA: སྨན་ཁང་
+
+ROMANIZED: ’menkha,
+
+
+
+
+
+DZONGKHA: སྨས་
+
+ROMANIZED: ’mä,
+
+
+
+
+
+DZONGKHA: སྲས་
+
+ROMANIZED: sä,
+
+
+
+
+
+DZONGKHA: སློབ་གྲྭ་
+
+ROMANIZED: ’lopdra,
+
+
+
+
+
+DZONGKHA: སློབ་གྲྭ་
+
+ROMANIZED: ’lopdra,
+
+
+
+
+
+DZONGKHA: སློབ་གྲྭཔ་
+
+ROMANIZED: ’lopdrap,
+
+
+
+
+
+DZONGKHA: སློབ་དཔོན་
+
+ROMANIZED: ’löbö,
+
+
+
+
+
+DZONGKHA: སློབ་ཕྲུགཔ་
+
+ROMANIZED: ’lopthrup,
+
+
+
+
+
+DZONGKHA: སློབམ་
+
+ROMANIZED: ’lôm,
+
+
+
+
+
+DZONGKHA: སེང་གེ་
+
+ROMANIZED: singge,
+
+
+
+
+
+DZONGKHA: སེང་གེ་དཀརམོ་
+
+ROMANIZED: singge
+
+
+
+
+
+DZONGKHA: སེན་མོ་
+
+ROMANIZED: sêmu,
+
+
+
+
+
+DZONGKHA: སེམས་
+
+ROMANIZED: sem,
+
+
+
+
+
+DZONGKHA: སེམས་ཁར་འབབ་ནི་
+
+ROMANIZED: semkha
+
+
+
+
+
+DZONGKHA: སེམས་ཅན་
+
+ROMANIZED: semce,
+
+
+
+
+
+DZONGKHA: སེམས་ཆགས་ནི་
+
+ROMANIZED: semchâ-ni,
+
+
+
+
+
+DZONGKHA: སེམས་རྣམ་རྟོག་
+
+ROMANIZED: sem’namto,
+
+
+
+
+
+DZONGKHA: སེར་གུ་
+
+ROMANIZED: sêgu,
+
+
+
+
+
+DZONGKHA: སེརཔོ་
+
+ROMANIZED: sêp,
+
+
+
+
+
+DZONGKHA: སེརཝ་
+
+ROMANIZED: siu,
+
+
+
+
+
+DZONGKHA: སོ་བཏབ་ནི་
+
+ROMANIZED: so
+
+
+
+
+
+DZONGKHA: ཧ་གོ་ནི་
+
+ROMANIZED: hag’o-ni,
+
+
+
+
+
+DZONGKHA: ཧ་ཡང་
+
+ROMANIZED: hayang,
+
+
+
+
+
+DZONGKHA: ཧ་ལམ་
+
+ROMANIZED: halam,
+
+
+
+
+
+DZONGKHA: ཧ་ལས་ནི་
+
+ROMANIZED: halä-ni,
+
+
+
+
+
+DZONGKHA: ཧིང་སངས་སང་
+
+ROMANIZED: hingsangsa,
+
+
+
+
+
+DZONGKHA: ཧེང་བཀལ་
+
+ROMANIZED: hengke,
+
+
+
+
+
+DZONGKHA: ཧོན་ཚོད་
+
+ROMANIZED: höntshö,
+
+
+
+
+
+DZONGKHA: ཧོནམ་
+
+ROMANIZED: höm,
+
+
+
+
+
+DZONGKHA: ཨ་ཙི་གཅིག་
+
+ROMANIZED: ’atsici,
+
+
+
+
+
+DZONGKHA: ཨ་རོགས་དགའ་རོགས་
+
+ROMANIZED: ’arogaro,
+
+
+
+
+
+DZONGKHA: ཨམ་
+
+ROMANIZED: ’am,
+
+
+
+
+
+DZONGKHA: ཨའུ་
+
+ROMANIZED: ’au,
+
+
+
+
+
+DZONGKHA: ཨརཝ་རྐུ་ནི་
+
+ROMANIZED: ’âuku-ni,
+
+
+
+
+
+DZONGKHA: ཨེ་ཏོ་མེ་ཏོག་
+
+ROMANIZED: ’ätomito,
+
+
+
+
+
+DZONGKHA: ཨེན་ཏ་
+
+ROMANIZED: ’entha,
+
+
+
+
+
